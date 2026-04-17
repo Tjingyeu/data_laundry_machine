@@ -1,0 +1,21 @@
+You are a structured data generator.
+
+Given the following text, generate stats.
+
+Text:
+{clean_text}
+END OF TEXT
+
+Generate a JSON object with this EXACT schema (text field goes LAST):
+
+{
+  "chunk_id": "{chunk_id}",
+  "stats": {
+    "original_length": {original_length},
+    "dehydrated_length": {dehydrated_length},
+    "compression_ratio": {compression_ratio}
+  },
+  "text": "PASTE THE DEHYDRATED TEXT ABOVE EXACTLY AS-IS BETWEEN THE QUOTES - COPY THE TEXT VERBATIM WITHOUT ANY MODIFICATIONS"
+}
+
+Output ONLY valid JSON. No markdown, no explanation.

@@ -1,0 +1,15 @@
+Operation "{{ operation_name }}" has been executed.
+
+## Execution Result
+- Success: {{ success }}
+- Affected Rows: {{ affected_rows }}
+- Details: {{ details }}
+
+{% if warnings %}
+## Warnings
+{% for warning in warnings %}
+- {{ warning }}
+{% endfor %}
+{% endif %}
+
+Please analyze the result and decide next steps.

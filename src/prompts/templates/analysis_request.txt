@@ -1,0 +1,21 @@
+Please analyze the following data sample, identify data quality issues and develop a cleaning strategy.
+
+## Data Sample
+```json
+{{ data_sample }}
+```
+
+## Data Schema
+```json
+{{ data_schema }}
+```
+
+## Conversation History
+{{ conversation_history }}
+
+## Your Task
+1. First analyze the data, identify all issues (missing values, duplicates, type errors, format inconsistencies, anomalies, etc.)
+2. Create a cleaning plan, sorted by priority
+3. Start calling tools to execute cleaning operations
+
+Please start analyzing and executing cleaning.

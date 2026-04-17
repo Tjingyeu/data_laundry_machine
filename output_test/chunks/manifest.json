@@ -1,0 +1,3120 @@
+{
+  "total_chunks": 389,
+  "total_files": 28,
+  "total_chars": 1646944,
+  "total_tokens": 377246,
+  "chunks": [
+    {
+      "chunk_id": "3d8d8d2e-cece-41b2-be8e-fe6094c32488",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0000_3d8d8d2e.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 4077,
+      "token_count": 886,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "d04b3e88-4bf6-4b80-8262-4fe8f8af620b",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0001_d04b3e88.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 4025,
+      "token_count": 884,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "4e353c63-8b82-484a-a150-169085beca42",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0002_4e353c63.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 4448,
+      "token_count": 1051,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "26c0fa40-61ec-427d-a931-0cb5831cb253",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0003_26c0fa40.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 4489,
+      "token_count": 1074,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "673e39d2-7dd1-4470-a194-ac06a58efd7f",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0004_673e39d2.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 4277,
+      "token_count": 1033,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "632e0600-0bf7-4385-b6db-ae0384b891b5",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0005_632e0600.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 4257,
+      "token_count": 975,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "05fd52e5-48ac-4a78-9ade-eb9e27f92ef9",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0006_05fd52e5.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 4552,
+      "token_count": 1056,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "94018ef9-46a3-49b0-b7ad-37426c6aa67a",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0007_94018ef9.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 4620,
+      "token_count": 1038,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "e19721e3-fc81-45f5-9757-6611a90581aa",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0008_e19721e3.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 4553,
+      "token_count": 1021,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "e1057a76-9070-4669-95e5-880206e3ce12",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0009_e1057a76.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 4466,
+      "token_count": 1022,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "69ff6072-0cfd-4425-9f3d-c18a15a5e4bc",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0010_69ff6072.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 4383,
+      "token_count": 1005,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "4df5f1ee-8b48-4b35-9d3e-15f2afb91df7",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0011_4df5f1ee.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 4546,
+      "token_count": 1061,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "77e89be4-60ba-46a0-a75f-4505b6978a41",
+      "filename": "chunk_Secret History #7_  Death by Meritocracy_0012_77e89be4.json",
+      "source_file": "txt/Secret History #7_  Death by Meritocracy.txt",
+      "char_count": 1821,
+      "token_count": 459,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "9249a193-279d-4e13-aab2-d39c37e55a0a",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0000_9249a193.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4537,
+      "token_count": 1033,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "e641adae-8743-4de4-9319-7383653d16b7",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0001_e641adae.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4481,
+      "token_count": 980,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "b369bc29-86ba-4790-8d29-3e5f9bcc88ff",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0002_b369bc29.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4694,
+      "token_count": 1091,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "ea953012-656c-425d-8a7d-0f1ec6779ad9",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0003_ea953012.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4548,
+      "token_count": 1092,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "b9dbca13-ef6c-43c9-b89f-eff2ca331138",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0004_b9dbca13.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4436,
+      "token_count": 1036,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "56ab82ab-c42c-4430-87d6-8a8e0ddfca03",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0005_56ab82ab.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4481,
+      "token_count": 1034,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "5fc771bd-86ab-4c1b-a3dd-53f8d6d2e813",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0006_5fc771bd.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4454,
+      "token_count": 961,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "82b8f774-e893-4d13-af3b-9cef9d93070a",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0007_82b8f774.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4622,
+      "token_count": 1084,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "0df37800-fdf7-4701-b0be-62c4f38f4796",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0008_0df37800.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4425,
+      "token_count": 1022,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "b25e19de-4641-4763-85af-7fd668ba465e",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0009_b25e19de.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4492,
+      "token_count": 1020,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "b2b468d8-49f9-4658-a43e-dfe2f67d9561",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0010_b2b468d8.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4420,
+      "token_count": 990,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "b1c719ba-4af7-4cc9-979e-084e7d89c807",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0011_b1c719ba.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4390,
+      "token_count": 987,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "f09ffd8b-0388-451d-b8e7-d71169acbece",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0012_f09ffd8b.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 4444,
+      "token_count": 1081,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "d82601be-c7db-40ce-bd66-97115b55c3d7",
+      "filename": "chunk_Secret History #25_  Capital of Evil_0013_d82601be.json",
+      "source_file": "txt/Secret History #25_  Capital of Evil.txt",
+      "char_count": 978,
+      "token_count": 238,
+      "chunk_index": 13
+    },
+    {
+      "chunk_id": "4c84296c-a8fe-420a-baf5-ff87d34d5887",
+      "filename": "chunk_Secret History #9_   The Theory of Everything_0000_4c84296c.json",
+      "source_file": "txt/Secret History #9_   The Theory of Everything.txt",
+      "char_count": 4558,
+      "token_count": 1001,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "67781585-b0f2-4c0d-b8e5-9947048b4e6d",
+      "filename": "chunk_Secret History #9_   The Theory of Everything_0001_67781585.json",
+      "source_file": "txt/Secret History #9_   The Theory of Everything.txt",
+      "char_count": 4527,
+      "token_count": 1026,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "3161554d-565c-4227-bd65-43a6dad0b0f6",
+      "filename": "chunk_Secret History #9_   The Theory of Everything_0002_3161554d.json",
+      "source_file": "txt/Secret History #9_   The Theory of Everything.txt",
+      "char_count": 4592,
+      "token_count": 1070,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "d02edce5-d066-45df-ae02-b7e339efe99e",
+      "filename": "chunk_Secret History #9_   The Theory of Everything_0003_d02edce5.json",
+      "source_file": "txt/Secret History #9_   The Theory of Everything.txt",
+      "char_count": 4024,
+      "token_count": 957,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "40fd3448-a036-49a3-8249-ccd1741f9a08",
+      "filename": "chunk_Secret History #9_   The Theory of Everything_0004_40fd3448.json",
+      "source_file": "txt/Secret History #9_   The Theory of Everything.txt",
+      "char_count": 4483,
+      "token_count": 1009,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "8fd26d5f-8fe8-45e3-8649-389d65a28826",
+      "filename": "chunk_Secret History #9_   The Theory of Everything_0005_8fd26d5f.json",
+      "source_file": "txt/Secret History #9_   The Theory of Everything.txt",
+      "char_count": 4517,
+      "token_count": 1041,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "9045beaa-b909-4ebf-b13d-707f9ad8127c",
+      "filename": "chunk_Secret History #9_   The Theory of Everything_0006_9045beaa.json",
+      "source_file": "txt/Secret History #9_   The Theory of Everything.txt",
+      "char_count": 4195,
+      "token_count": 921,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "6ed98ade-8e35-4712-a3f0-394bee65573f",
+      "filename": "chunk_Secret History #9_   The Theory of Everything_0007_6ed98ade.json",
+      "source_file": "txt/Secret History #9_   The Theory of Everything.txt",
+      "char_count": 4488,
+      "token_count": 1035,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "d3d639f2-1d6d-460e-a515-954c395bd0c5",
+      "filename": "chunk_Secret History #9_   The Theory of Everything_0008_d3d639f2.json",
+      "source_file": "txt/Secret History #9_   The Theory of Everything.txt",
+      "char_count": 4570,
+      "token_count": 1033,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "d6769518-52b1-4fdf-8f78-da4b8bc48543",
+      "filename": "chunk_Secret History #9_   The Theory of Everything_0009_d6769518.json",
+      "source_file": "txt/Secret History #9_   The Theory of Everything.txt",
+      "char_count": 4487,
+      "token_count": 989,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "6422eb0f-1af7-4df1-b704-3bfaa896b869",
+      "filename": "chunk_Secret History #9_   The Theory of Everything_0010_6422eb0f.json",
+      "source_file": "txt/Secret History #9_   The Theory of Everything.txt",
+      "char_count": 4043,
+      "token_count": 940,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "9205a76d-e140-4f59-8891-b17c199f991d",
+      "filename": "chunk_Secret History #9_   The Theory of Everything_0011_9205a76d.json",
+      "source_file": "txt/Secret History #9_   The Theory of Everything.txt",
+      "char_count": 173,
+      "token_count": 48,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "162a75e8-6961-4ca1-a4ad-f64c694bc69d",
+      "filename": "chunk_Secret History #14_  Legacy of the Steppes_0000_162a75e8.json",
+      "source_file": "txt/Secret History #14_  Legacy of the Steppes.txt",
+      "char_count": 4490,
+      "token_count": 945,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "064468ea-1613-43db-b64f-20a9b6b35685",
+      "filename": "chunk_Secret History #14_  Legacy of the Steppes_0001_064468ea.json",
+      "source_file": "txt/Secret History #14_  Legacy of the Steppes.txt",
+      "char_count": 4466,
+      "token_count": 980,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "3bf08de2-b110-4a96-808b-6f733b832710",
+      "filename": "chunk_Secret History #14_  Legacy of the Steppes_0002_3bf08de2.json",
+      "source_file": "txt/Secret History #14_  Legacy of the Steppes.txt",
+      "char_count": 4557,
+      "token_count": 951,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "6c7c3908-3bef-400e-82f7-332b86c68d68",
+      "filename": "chunk_Secret History #14_  Legacy of the Steppes_0003_6c7c3908.json",
+      "source_file": "txt/Secret History #14_  Legacy of the Steppes.txt",
+      "char_count": 4005,
+      "token_count": 907,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "fa99d7da-b83a-4273-9e15-b19709f02aff",
+      "filename": "chunk_Secret History #14_  Legacy of the Steppes_0004_fa99d7da.json",
+      "source_file": "txt/Secret History #14_  Legacy of the Steppes.txt",
+      "char_count": 4070,
+      "token_count": 916,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "c6ad41f0-c243-4086-805f-507ff9a0df04",
+      "filename": "chunk_Secret History #14_  Legacy of the Steppes_0005_c6ad41f0.json",
+      "source_file": "txt/Secret History #14_  Legacy of the Steppes.txt",
+      "char_count": 4118,
+      "token_count": 941,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "89221f0c-c3e3-4d1b-b3ea-fc29b55114ae",
+      "filename": "chunk_Secret History #14_  Legacy of the Steppes_0006_89221f0c.json",
+      "source_file": "txt/Secret History #14_  Legacy of the Steppes.txt",
+      "char_count": 4632,
+      "token_count": 1035,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "857b1431-64bb-4d45-a84a-7ef4202081ca",
+      "filename": "chunk_Secret History #14_  Legacy of the Steppes_0007_857b1431.json",
+      "source_file": "txt/Secret History #14_  Legacy of the Steppes.txt",
+      "char_count": 4028,
+      "token_count": 921,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "f73559b4-83be-41c4-8a2e-f874859541c6",
+      "filename": "chunk_Secret History #14_  Legacy of the Steppes_0008_f73559b4.json",
+      "source_file": "txt/Secret History #14_  Legacy of the Steppes.txt",
+      "char_count": 4342,
+      "token_count": 947,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "a29c642a-d4fa-4712-9979-f4e26ca79009",
+      "filename": "chunk_Secret History #14_  Legacy of the Steppes_0009_a29c642a.json",
+      "source_file": "txt/Secret History #14_  Legacy of the Steppes.txt",
+      "char_count": 4435,
+      "token_count": 953,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "c126bc3c-5cfe-4d5d-961d-4afb8edd9be1",
+      "filename": "chunk_Secret History #14_  Legacy of the Steppes_0010_c126bc3c.json",
+      "source_file": "txt/Secret History #14_  Legacy of the Steppes.txt",
+      "char_count": 4526,
+      "token_count": 1012,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "489a972f-95c1-4b4b-a2c1-95af62ab2f12",
+      "filename": "chunk_Secret History #14_  Legacy of the Steppes_0011_489a972f.json",
+      "source_file": "txt/Secret History #14_  Legacy of the Steppes.txt",
+      "char_count": 1995,
+      "token_count": 442,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "bd753029-ed7d-46d3-a4cb-ff123ae57d81",
+      "filename": "chunk_Secret History #10_  The Conspiracy of Evil_0000_bd753029.json",
+      "source_file": "txt/Secret History #10_  The Conspiracy of Evil.txt",
+      "char_count": 4531,
+      "token_count": 1072,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "525c19a8-0347-457f-8a96-780186cb9e6f",
+      "filename": "chunk_Secret History #10_  The Conspiracy of Evil_0001_525c19a8.json",
+      "source_file": "txt/Secret History #10_  The Conspiracy of Evil.txt",
+      "char_count": 4477,
+      "token_count": 1058,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "b24ca5a1-6eef-4705-b9c3-e92fb25d1470",
+      "filename": "chunk_Secret History #10_  The Conspiracy of Evil_0002_b24ca5a1.json",
+      "source_file": "txt/Secret History #10_  The Conspiracy of Evil.txt",
+      "char_count": 4550,
+      "token_count": 1042,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "50b3ce26-815f-44a2-887f-36c0985f7330",
+      "filename": "chunk_Secret History #10_  The Conspiracy of Evil_0003_50b3ce26.json",
+      "source_file": "txt/Secret History #10_  The Conspiracy of Evil.txt",
+      "char_count": 4476,
+      "token_count": 1034,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "64fa6528-80ef-457f-a486-ee90fbbfc5c9",
+      "filename": "chunk_Secret History #10_  The Conspiracy of Evil_0004_64fa6528.json",
+      "source_file": "txt/Secret History #10_  The Conspiracy of Evil.txt",
+      "char_count": 4528,
+      "token_count": 1037,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "a12a61f1-a8f4-4164-a407-ff4e6ff285bc",
+      "filename": "chunk_Secret History #10_  The Conspiracy of Evil_0005_a12a61f1.json",
+      "source_file": "txt/Secret History #10_  The Conspiracy of Evil.txt",
+      "char_count": 4459,
+      "token_count": 1102,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "ed2f4418-ac4a-477e-bc9a-d3cb9e4896fa",
+      "filename": "chunk_Secret History #10_  The Conspiracy of Evil_0006_ed2f4418.json",
+      "source_file": "txt/Secret History #10_  The Conspiracy of Evil.txt",
+      "char_count": 4488,
+      "token_count": 1055,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "81b865bc-6cb6-4d24-830c-51af4dcf4ee0",
+      "filename": "chunk_Secret History #10_  The Conspiracy of Evil_0007_81b865bc.json",
+      "source_file": "txt/Secret History #10_  The Conspiracy of Evil.txt",
+      "char_count": 4606,
+      "token_count": 1038,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "5302f116-83a9-4d34-bb6b-eee60e651c22",
+      "filename": "chunk_Secret History #10_  The Conspiracy of Evil_0008_5302f116.json",
+      "source_file": "txt/Secret History #10_  The Conspiracy of Evil.txt",
+      "char_count": 4464,
+      "token_count": 1033,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "08824119-311f-4db2-8bf4-dc2cbd18b610",
+      "filename": "chunk_Secret History #10_  The Conspiracy of Evil_0009_08824119.json",
+      "source_file": "txt/Secret History #10_  The Conspiracy of Evil.txt",
+      "char_count": 4219,
+      "token_count": 947,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "11fcf3cf-b41a-4a3d-8f84-a13a4717410c",
+      "filename": "chunk_Secret History #10_  The Conspiracy of Evil_0010_11fcf3cf.json",
+      "source_file": "txt/Secret History #10_  The Conspiracy of Evil.txt",
+      "char_count": 1,
+      "token_count": 1,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "699555f6-845e-4c3c-8f07-56cef504ba5a",
+      "filename": "chunk_Secret History #4_  How Evil Triumphs_0000_699555f6.json",
+      "source_file": "txt/Secret History #4_  How Evil Triumphs.txt",
+      "char_count": 4048,
+      "token_count": 899,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "0aea12d1-027b-4089-88a3-083a8116f514",
+      "filename": "chunk_Secret History #4_  How Evil Triumphs_0001_0aea12d1.json",
+      "source_file": "txt/Secret History #4_  How Evil Triumphs.txt",
+      "char_count": 4642,
+      "token_count": 1027,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "ba270b65-7d70-44d2-a8b5-34a9e4e8cf4c",
+      "filename": "chunk_Secret History #4_  How Evil Triumphs_0002_ba270b65.json",
+      "source_file": "txt/Secret History #4_  How Evil Triumphs.txt",
+      "char_count": 4561,
+      "token_count": 1026,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "a0270575-bbd6-4449-b660-58b3a4b7ef67",
+      "filename": "chunk_Secret History #4_  How Evil Triumphs_0003_a0270575.json",
+      "source_file": "txt/Secret History #4_  How Evil Triumphs.txt",
+      "char_count": 4424,
+      "token_count": 987,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "7a842911-64c7-47c5-bbc6-50f92b357a6f",
+      "filename": "chunk_Secret History #4_  How Evil Triumphs_0004_7a842911.json",
+      "source_file": "txt/Secret History #4_  How Evil Triumphs.txt",
+      "char_count": 4485,
+      "token_count": 1049,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "7ff0386c-a62b-4f07-b210-a8c7f38589a6",
+      "filename": "chunk_Secret History #4_  How Evil Triumphs_0005_7ff0386c.json",
+      "source_file": "txt/Secret History #4_  How Evil Triumphs.txt",
+      "char_count": 4487,
+      "token_count": 1010,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "e6ca6122-a4b6-436a-9b13-c9f2368e1c19",
+      "filename": "chunk_Secret History #4_  How Evil Triumphs_0006_e6ca6122.json",
+      "source_file": "txt/Secret History #4_  How Evil Triumphs.txt",
+      "char_count": 4052,
+      "token_count": 953,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "dac0afe6-e789-44cf-9d1c-1725395816ae",
+      "filename": "chunk_Secret History #4_  How Evil Triumphs_0007_dac0afe6.json",
+      "source_file": "txt/Secret History #4_  How Evil Triumphs.txt",
+      "char_count": 4551,
+      "token_count": 1029,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "e5e01a34-2649-4788-99ce-de00cb62bf2a",
+      "filename": "chunk_Secret History #4_  How Evil Triumphs_0008_e5e01a34.json",
+      "source_file": "txt/Secret History #4_  How Evil Triumphs.txt",
+      "char_count": 4466,
+      "token_count": 1026,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "bbf2b14e-f11e-4227-aa92-f621e99380b7",
+      "filename": "chunk_Secret History #4_  How Evil Triumphs_0009_bbf2b14e.json",
+      "source_file": "txt/Secret History #4_  How Evil Triumphs.txt",
+      "char_count": 4581,
+      "token_count": 1055,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "a0a551dc-4146-4337-a2d9-8c83653e8fa8",
+      "filename": "chunk_Secret History #4_  How Evil Triumphs_0010_a0a551dc.json",
+      "source_file": "txt/Secret History #4_  How Evil Triumphs.txt",
+      "char_count": 4627,
+      "token_count": 1079,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "78290a98-1eb5-40b6-9a84-7052e9951d63",
+      "filename": "chunk_Secret History #4_  How Evil Triumphs_0011_78290a98.json",
+      "source_file": "txt/Secret History #4_  How Evil Triumphs.txt",
+      "char_count": 3705,
+      "token_count": 836,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "adb2f02c-ac5c-4ab2-a1fb-1145bcd34d70",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0000_adb2f02c.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4679,
+      "token_count": 980,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "5c9557c9-e8cd-4ead-9e3a-203a03ed09a3",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0001_5c9557c9.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4526,
+      "token_count": 997,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "0fa1d09a-e0db-4108-b881-eb64aeda0ae5",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0002_0fa1d09a.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4201,
+      "token_count": 942,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "1c1271fc-f6ba-4c9c-94fd-416de402e9cf",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0003_1c1271fc.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4007,
+      "token_count": 879,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "d170bbc0-fa91-48b5-bee9-aa8fed62b99c",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0004_d170bbc0.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4051,
+      "token_count": 866,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "2e41a8a8-984e-49c3-9eb9-8b94873c2ca0",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0005_2e41a8a8.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4049,
+      "token_count": 869,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "82fb3fdb-90af-4d5b-91d9-14aa276f9c82",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0006_82fb3fdb.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4439,
+      "token_count": 955,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "fdc709d9-cab2-47b6-b04d-87afafb9e7ec",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0007_fdc709d9.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4053,
+      "token_count": 892,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "2312432a-ad1c-4a1a-b8a8-213e57067ecc",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0008_2312432a.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4134,
+      "token_count": 933,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "b78bc5b6-49bb-4021-9f6c-29446988a548",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0009_b78bc5b6.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4235,
+      "token_count": 951,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "15263dd3-318a-454e-aa38-cd51de60880f",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0010_15263dd3.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4509,
+      "token_count": 999,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "c239b8ce-340a-4e3d-8634-e2efc53881ac",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0011_c239b8ce.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4299,
+      "token_count": 930,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "9b0f18a3-9f46-44eb-8db9-ca3e374a796d",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0012_9b0f18a3.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4046,
+      "token_count": 859,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "43fad676-4735-4afc-a1aa-55a526f30f5c",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0013_43fad676.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4557,
+      "token_count": 1035,
+      "chunk_index": 13
+    },
+    {
+      "chunk_id": "71a81dbe-666e-48e9-b349-70172f7a00a4",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0014_71a81dbe.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4252,
+      "token_count": 895,
+      "chunk_index": 14
+    },
+    {
+      "chunk_id": "57bbe9fa-6379-4d52-aabe-51d19d9b3baf",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0015_57bbe9fa.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4424,
+      "token_count": 933,
+      "chunk_index": 15
+    },
+    {
+      "chunk_id": "c9ea346f-ad1b-4cd7-be78-ee047f48028a",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0016_c9ea346f.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4071,
+      "token_count": 896,
+      "chunk_index": 16
+    },
+    {
+      "chunk_id": "0ecd1349-f466-451c-9843-b7e3028998cb",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0017_0ecd1349.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 4699,
+      "token_count": 1040,
+      "chunk_index": 17
+    },
+    {
+      "chunk_id": "d30e1c7a-2df4-43d6-8d4e-6d6f33c002c7",
+      "filename": "chunk_Secret History #27_  Empire of Evil_0018_d30e1c7a.json",
+      "source_file": "txt/Secret History #27_  Empire of Evil.txt",
+      "char_count": 517,
+      "token_count": 126,
+      "chunk_index": 18
+    },
+    {
+      "chunk_id": "91b65df7-85c2-4a39-9b47-b6c4c563ef46",
+      "filename": "chunk_Secret History #1_  How Power Works_0000_91b65df7.json",
+      "source_file": "txt/Secret History #1_  How Power Works.txt",
+      "char_count": 4546,
+      "token_count": 1009,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "e1af8868-645a-43b9-a35d-aa8cf9e5e620",
+      "filename": "chunk_Secret History #1_  How Power Works_0001_e1af8868.json",
+      "source_file": "txt/Secret History #1_  How Power Works.txt",
+      "char_count": 4645,
+      "token_count": 1142,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "d914df4a-3671-4be0-8e7f-0160c8d50114",
+      "filename": "chunk_Secret History #1_  How Power Works_0002_d914df4a.json",
+      "source_file": "txt/Secret History #1_  How Power Works.txt",
+      "char_count": 4468,
+      "token_count": 1096,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "cbd4cb3d-8e8e-4368-9f19-9972e51fa5aa",
+      "filename": "chunk_Secret History #1_  How Power Works_0003_cbd4cb3d.json",
+      "source_file": "txt/Secret History #1_  How Power Works.txt",
+      "char_count": 4035,
+      "token_count": 947,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "1af8fcc6-f029-4741-b915-7a814488ac7c",
+      "filename": "chunk_Secret History #1_  How Power Works_0004_1af8fcc6.json",
+      "source_file": "txt/Secret History #1_  How Power Works.txt",
+      "char_count": 4016,
+      "token_count": 914,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "8cfde9d5-4bb7-46f9-9edc-ccfc21d7dfd1",
+      "filename": "chunk_Secret History #1_  How Power Works_0005_8cfde9d5.json",
+      "source_file": "txt/Secret History #1_  How Power Works.txt",
+      "char_count": 4557,
+      "token_count": 1091,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "9489a84a-6cf4-4a12-9f98-38369728cf53",
+      "filename": "chunk_Secret History #1_  How Power Works_0006_9489a84a.json",
+      "source_file": "txt/Secret History #1_  How Power Works.txt",
+      "char_count": 4649,
+      "token_count": 1053,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "5e5b0bb5-55ff-491e-85c7-f4ac8d9e5c18",
+      "filename": "chunk_Secret History #1_  How Power Works_0007_5e5b0bb5.json",
+      "source_file": "txt/Secret History #1_  How Power Works.txt",
+      "char_count": 4535,
+      "token_count": 1057,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "1fde2e85-9693-4b9e-8a2b-d7250f828ce9",
+      "filename": "chunk_Secret History #1_  How Power Works_0008_1fde2e85.json",
+      "source_file": "txt/Secret History #1_  How Power Works.txt",
+      "char_count": 4634,
+      "token_count": 1133,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "af5c6473-4b24-46e7-ba3c-749c249c1bfa",
+      "filename": "chunk_Secret History #1_  How Power Works_0009_af5c6473.json",
+      "source_file": "txt/Secret History #1_  How Power Works.txt",
+      "char_count": 4470,
+      "token_count": 1086,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "e2a7c8fd-fef4-4335-b019-c29807c6f34f",
+      "filename": "chunk_Secret History #1_  How Power Works_0010_e2a7c8fd.json",
+      "source_file": "txt/Secret History #1_  How Power Works.txt",
+      "char_count": 4478,
+      "token_count": 1035,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "380c564d-76e2-441a-8a61-b5b3133fec78",
+      "filename": "chunk_Secret History #1_  How Power Works_0011_380c564d.json",
+      "source_file": "txt/Secret History #1_  How Power Works.txt",
+      "char_count": 2702,
+      "token_count": 607,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "f31c580d-acb5-4d7d-a228-20b3ed13a957",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0000_f31c580d.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 4507,
+      "token_count": 986,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "60508c33-2db1-43d8-9fa1-f1bbe786f767",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0001_60508c33.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 4579,
+      "token_count": 1058,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "d5e97087-468c-42c2-b8d9-d44403cce987",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0002_d5e97087.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 4111,
+      "token_count": 888,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "3109eeab-a6c0-4d84-92a2-d0ff6f8cca36",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0003_3109eeab.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 4585,
+      "token_count": 957,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "de2948a8-9a32-4b0c-ae01-99af3138a900",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0004_de2948a8.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 4451,
+      "token_count": 1065,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "397656fa-7814-4d02-9891-fa7a2514b761",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0005_397656fa.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 4436,
+      "token_count": 1010,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "98e1d57e-1eb4-4ab7-9bf9-f3d0f80cc905",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0006_98e1d57e.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 4489,
+      "token_count": 1061,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "eb57cac3-1290-4048-b4f8-315efcbea10d",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0007_eb57cac3.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 4080,
+      "token_count": 934,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "9a9e1c1f-4841-49ea-b1a7-f29f68fcdb8a",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0008_9a9e1c1f.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 4100,
+      "token_count": 942,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "4778a7a8-641f-49e9-ad1a-be585c032307",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0009_4778a7a8.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 4576,
+      "token_count": 1057,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "1be1bb87-aa3d-4b20-85e5-a8a2da020ecb",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0010_1be1bb87.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 4618,
+      "token_count": 1113,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "2f5fa1f2-ac49-4783-94cd-8a6d3d96c32b",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0011_2f5fa1f2.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 4619,
+      "token_count": 1114,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "0a8dde1f-0d04-4639-a240-abf85550749f",
+      "filename": "chunk_Secret History #5_  The Birth of Evil_0012_0a8dde1f.json",
+      "source_file": "txt/Secret History #5_  The Birth of Evil.txt",
+      "char_count": 2947,
+      "token_count": 670,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "ea5e36e7-6539-454f-9691-844817070f88",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0000_ea5e36e7.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 4032,
+      "token_count": 926,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "e724cf15-e3a3-4807-a51b-3fa714766282",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0001_e724cf15.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 4462,
+      "token_count": 1067,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "53a0c082-2c79-48c8-9ca5-0625dc3385b9",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0002_53a0c082.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 4456,
+      "token_count": 1037,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "813fa6de-2de8-4d6b-8b44-4e00fd687ef5",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0003_813fa6de.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 4077,
+      "token_count": 1000,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "08abe78c-e908-427b-8de3-0bdc8ffdcde2",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0004_08abe78c.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 4110,
+      "token_count": 970,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "1f573a52-f761-4376-9623-e037d92c128e",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0005_1f573a52.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 4176,
+      "token_count": 944,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "f5aeeb2f-110f-4e00-be19-75f6704309b3",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0006_f5aeeb2f.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 4584,
+      "token_count": 1101,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "a5ae1e3e-d054-48b4-a9f3-1ba40eca77bc",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0007_a5ae1e3e.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 4166,
+      "token_count": 965,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "b77b9dd0-685e-45bc-84ba-c726cca24d4e",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0008_b77b9dd0.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 4493,
+      "token_count": 1043,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "1d84236b-db61-419c-b7ed-78a64d1c1de5",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0009_1d84236b.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 4006,
+      "token_count": 950,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "9c3716aa-08d8-4884-8bf2-6b42f5b5574a",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0010_9c3716aa.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 4704,
+      "token_count": 1100,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "89ed869b-c8e8-47aa-a34e-29906bcc0f2f",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0011_89ed869b.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 4019,
+      "token_count": 949,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "449d70f9-2ccf-4b54-9fe1-768215236579",
+      "filename": "chunk_Secret History #18_  Thus Spoke Zarathustra_0012_449d70f9.json",
+      "source_file": "txt/Secret History #18_  Thus Spoke Zarathustra.txt",
+      "char_count": 3082,
+      "token_count": 735,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "05ce755d-4041-42e8-ab4a-cc625bd9dcf3",
+      "filename": "chunk_Secret History #24_  Empire of Church_0000_05ce755d.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4590,
+      "token_count": 1006,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "9c816ab1-f3a5-4028-82ad-6609bc1e05b5",
+      "filename": "chunk_Secret History #24_  Empire of Church_0001_9c816ab1.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4583,
+      "token_count": 998,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "6878178f-09e8-406f-99c3-1ffb30457e89",
+      "filename": "chunk_Secret History #24_  Empire of Church_0002_6878178f.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4535,
+      "token_count": 1072,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "e64ef243-7fb8-4513-b717-456df3abb8fb",
+      "filename": "chunk_Secret History #24_  Empire of Church_0003_e64ef243.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4492,
+      "token_count": 1074,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "af37d6e6-39de-4dbd-ba90-efd09579d6bc",
+      "filename": "chunk_Secret History #24_  Empire of Church_0004_af37d6e6.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4630,
+      "token_count": 1056,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "ecf80822-ca5d-4a82-9605-72712868d9e7",
+      "filename": "chunk_Secret History #24_  Empire of Church_0005_ecf80822.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4036,
+      "token_count": 894,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "80efc572-6912-4b9c-88ac-f103308a4c5d",
+      "filename": "chunk_Secret History #24_  Empire of Church_0006_80efc572.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4441,
+      "token_count": 992,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "7ea6e64b-cac4-4e4b-862f-a546fee905c1",
+      "filename": "chunk_Secret History #24_  Empire of Church_0007_7ea6e64b.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4616,
+      "token_count": 1041,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "fbe861a4-5ce8-4127-8049-7cc6682b736d",
+      "filename": "chunk_Secret History #24_  Empire of Church_0008_fbe861a4.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4552,
+      "token_count": 1019,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "42417489-982e-40e2-8e54-ea7dd6fa06c3",
+      "filename": "chunk_Secret History #24_  Empire of Church_0009_42417489.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4612,
+      "token_count": 1065,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "946b3a99-52e0-4bf4-b5ca-576446a2cc76",
+      "filename": "chunk_Secret History #24_  Empire of Church_0010_946b3a99.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4546,
+      "token_count": 982,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "050118dd-d9f8-49f9-9845-387c60bd8935",
+      "filename": "chunk_Secret History #24_  Empire of Church_0011_050118dd.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4615,
+      "token_count": 1053,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "d0f848fc-a935-463b-a9d6-30045120ff16",
+      "filename": "chunk_Secret History #24_  Empire of Church_0012_d0f848fc.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4591,
+      "token_count": 1033,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "09828c0e-2a27-4281-b63e-9c4eb36470cb",
+      "filename": "chunk_Secret History #24_  Empire of Church_0013_09828c0e.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4581,
+      "token_count": 1032,
+      "chunk_index": 13
+    },
+    {
+      "chunk_id": "d8333bfb-78ce-490f-b78b-61c2ebd99553",
+      "filename": "chunk_Secret History #24_  Empire of Church_0014_d8333bfb.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 4141,
+      "token_count": 931,
+      "chunk_index": 14
+    },
+    {
+      "chunk_id": "8aa17f53-6110-4a9c-b5db-cf8f519712ae",
+      "filename": "chunk_Secret History #24_  Empire of Church_0015_8aa17f53.json",
+      "source_file": "txt/Secret History #24_  Empire of Church.txt",
+      "char_count": 1215,
+      "token_count": 299,
+      "chunk_index": 15
+    },
+    {
+      "chunk_id": "de299ec3-6e64-4d7c-a0da-ca354f5c96f6",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0000_de299ec3.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4201,
+      "token_count": 916,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "3a219cd9-e637-4d90-b4cb-106454df0618",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0001_3a219cd9.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4435,
+      "token_count": 984,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "3d508dd5-0e15-4f77-ba44-dac85aedfdca",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0002_3d508dd5.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4665,
+      "token_count": 1070,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "21ff0e08-70ec-4a69-a51b-1f05ebecb024",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0003_21ff0e08.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4606,
+      "token_count": 1091,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "803f4365-03bf-4545-8fe1-1cd87531055c",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0004_803f4365.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4634,
+      "token_count": 1053,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "d3cc0748-14d7-479c-b23a-05b3f43aa758",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0005_d3cc0748.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4466,
+      "token_count": 1025,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "380ee65b-e96b-4a53-bc9c-3c94f39ad98d",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0006_380ee65b.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4498,
+      "token_count": 1001,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "80ae2f9d-8fc8-4dd0-abc5-f2eee69a0cf0",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0007_80ae2f9d.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4022,
+      "token_count": 907,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "6c1abb47-08bf-4f15-8e4f-f9475a2a361f",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0008_6c1abb47.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4148,
+      "token_count": 945,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "c0685b81-8acd-452f-8f1d-e3a5c95452ce",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0009_c0685b81.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4169,
+      "token_count": 951,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "2156ce06-a402-48b2-b8e5-9bc3953b365f",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0010_2156ce06.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4509,
+      "token_count": 1048,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "d254d1ed-afbd-4e52-98d3-2a4e9144bf2c",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0011_d254d1ed.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4887,
+      "token_count": 1160,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "f5c5a8ac-b9ac-480f-a7f5-64471b78bb36",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0012_f5c5a8ac.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4314,
+      "token_count": 1019,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "1a8ea84f-d865-4df5-8a03-addcb8aabeb9",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0013_1a8ea84f.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4506,
+      "token_count": 1063,
+      "chunk_index": 13
+    },
+    {
+      "chunk_id": "197aeab3-b701-466e-9355-4e342e6f58fe",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0014_197aeab3.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4102,
+      "token_count": 960,
+      "chunk_index": 14
+    },
+    {
+      "chunk_id": "b96db4c6-29fa-4e09-8a53-3c3258989342",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0015_b96db4c6.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4551,
+      "token_count": 1041,
+      "chunk_index": 15
+    },
+    {
+      "chunk_id": "90cbdc9c-0793-42cd-97b3-98c2efdf43e7",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0016_90cbdc9c.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 4623,
+      "token_count": 1132,
+      "chunk_index": 16
+    },
+    {
+      "chunk_id": "4a8ae1f4-deb9-492d-91f4-94115a0490b4",
+      "filename": "chunk_Secret History #21_  Roman Anti-Civilization_0017_4a8ae1f4.json",
+      "source_file": "txt/Secret History #21_  Roman Anti-Civilization.txt",
+      "char_count": 1394,
+      "token_count": 339,
+      "chunk_index": 17
+    },
+    {
+      "chunk_id": "21623244-8b24-472d-8557-5bd3ab3c2658",
+      "filename": "chunk_Secret History #3_  Death by Gerontocracy_0000_21623244.json",
+      "source_file": "txt/Secret History #3_  Death by Gerontocracy.txt",
+      "char_count": 4076,
+      "token_count": 863,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "998f422b-20e1-4d57-8014-4f6778e5634c",
+      "filename": "chunk_Secret History #3_  Death by Gerontocracy_0001_998f422b.json",
+      "source_file": "txt/Secret History #3_  Death by Gerontocracy.txt",
+      "char_count": 4057,
+      "token_count": 877,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "4f9f42a8-9990-4342-985f-b9ac8ae5f766",
+      "filename": "chunk_Secret History #3_  Death by Gerontocracy_0002_4f9f42a8.json",
+      "source_file": "txt/Secret History #3_  Death by Gerontocracy.txt",
+      "char_count": 4517,
+      "token_count": 947,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "a639bcff-a980-48b9-8622-f83d39823bf4",
+      "filename": "chunk_Secret History #3_  Death by Gerontocracy_0003_a639bcff.json",
+      "source_file": "txt/Secret History #3_  Death by Gerontocracy.txt",
+      "char_count": 4487,
+      "token_count": 1085,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "707d82bf-bee2-4a7c-94ec-0f5e666746d6",
+      "filename": "chunk_Secret History #3_  Death by Gerontocracy_0004_707d82bf.json",
+      "source_file": "txt/Secret History #3_  Death by Gerontocracy.txt",
+      "char_count": 4162,
+      "token_count": 946,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "09ad4d1b-4284-4b24-b7de-52d5557407ae",
+      "filename": "chunk_Secret History #3_  Death by Gerontocracy_0005_09ad4d1b.json",
+      "source_file": "txt/Secret History #3_  Death by Gerontocracy.txt",
+      "char_count": 4443,
+      "token_count": 958,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "d3a7d280-343b-42d5-bdd2-d2b692c0cbec",
+      "filename": "chunk_Secret History #3_  Death by Gerontocracy_0006_d3a7d280.json",
+      "source_file": "txt/Secret History #3_  Death by Gerontocracy.txt",
+      "char_count": 4476,
+      "token_count": 1019,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "97506a6f-2d58-4167-86fd-88b9a655504b",
+      "filename": "chunk_Secret History #3_  Death by Gerontocracy_0007_97506a6f.json",
+      "source_file": "txt/Secret History #3_  Death by Gerontocracy.txt",
+      "char_count": 4519,
+      "token_count": 1067,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "2d0a318e-4cdb-4545-ade8-d85714c84edc",
+      "filename": "chunk_Secret History #3_  Death by Gerontocracy_0008_2d0a318e.json",
+      "source_file": "txt/Secret History #3_  Death by Gerontocracy.txt",
+      "char_count": 4407,
+      "token_count": 987,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "e794a8ce-7210-4674-823b-005ed7e1974e",
+      "filename": "chunk_Secret History #3_  Death by Gerontocracy_0009_e794a8ce.json",
+      "source_file": "txt/Secret History #3_  Death by Gerontocracy.txt",
+      "char_count": 1817,
+      "token_count": 425,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "868bdfb5-9d07-4865-900b-c7d83b3eca0b",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0000_868bdfb5.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4627,
+      "token_count": 1026,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "d74c2eed-07c3-48ee-8c64-e58700ba53fc",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0001_d74c2eed.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4608,
+      "token_count": 1029,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "36e78910-8b59-4d12-bbea-67e0ab2271bf",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0002_36e78910.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4609,
+      "token_count": 1018,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "58617bb3-4149-4176-be5d-b624d9b94aa6",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0003_58617bb3.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4628,
+      "token_count": 1029,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "8fd5e42b-7f4a-4f64-9ad8-1068c3ba1e15",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0004_8fd5e42b.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4573,
+      "token_count": 1103,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "5b792eaa-5f88-4d8a-9743-decdbaa86f16",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0005_5b792eaa.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4013,
+      "token_count": 904,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "3a662dc2-cd02-49cf-b5ca-84cb439efb49",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0006_3a662dc2.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4553,
+      "token_count": 1077,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "a9d024ed-9d6d-460e-a0a1-bd4e981ff4e6",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0007_a9d024ed.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4454,
+      "token_count": 1027,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "64bb4076-e8aa-4abb-81c0-20b1ae6e0b7f",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0008_64bb4076.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4168,
+      "token_count": 968,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "b0c5edb0-9124-4da4-ae41-9262ab18c011",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0009_b0c5edb0.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4515,
+      "token_count": 1093,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "4c95d12d-c552-4ef5-b30c-00b1c814169d",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0010_4c95d12d.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4518,
+      "token_count": 1069,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "4b7e3746-f927-404b-8c3c-3ab70d4e17e0",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0011_4b7e3746.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4229,
+      "token_count": 965,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "27f0a6f4-a7e9-4929-971d-5ac86dd6154e",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0012_27f0a6f4.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4493,
+      "token_count": 1079,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "b990d9ac-97e2-4d7e-8541-bf034dc32cf5",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0013_b990d9ac.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4483,
+      "token_count": 1061,
+      "chunk_index": 13
+    },
+    {
+      "chunk_id": "e7b82ed8-9912-4ade-8288-1f7c54a60128",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0014_e7b82ed8.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4599,
+      "token_count": 1119,
+      "chunk_index": 14
+    },
+    {
+      "chunk_id": "c3b07654-f1cf-4d93-a686-345dcfd2b523",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0015_c3b07654.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4329,
+      "token_count": 995,
+      "chunk_index": 15
+    },
+    {
+      "chunk_id": "32993066-2b8c-4670-8d03-2ef32fff33a4",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0016_32993066.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4083,
+      "token_count": 945,
+      "chunk_index": 16
+    },
+    {
+      "chunk_id": "f9ad36e3-c06e-49c9-9ee1-5b69452f2d15",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0017_f9ad36e3.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 4590,
+      "token_count": 1046,
+      "chunk_index": 17
+    },
+    {
+      "chunk_id": "84f602de-66f4-4369-9ed2-b5f7beab460f",
+      "filename": "chunk_Secret History #23_  The Organization of Evil_0018_84f602de.json",
+      "source_file": "txt/Secret History #23_  The Organization of Evil.txt",
+      "char_count": 3497,
+      "token_count": 860,
+      "chunk_index": 18
+    },
+    {
+      "chunk_id": "2b7fe1b8-c701-40c9-ad55-2194883bd9de",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0000_2b7fe1b8.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4004,
+      "token_count": 902,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "67f3e480-6a52-4193-94a7-1be1118d8f94",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0001_67f3e480.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4207,
+      "token_count": 972,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "443328a4-c34e-4dd7-991e-098946b295a4",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0002_443328a4.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4507,
+      "token_count": 1074,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "77d969e0-b325-4408-a964-5c9abdb0b35b",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0003_77d969e0.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4004,
+      "token_count": 956,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "b3d43527-3e20-4611-aa24-cf4af8d15a63",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0004_b3d43527.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4546,
+      "token_count": 1099,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "7f40add8-df8f-4bcd-b7d9-eebc86c802ce",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0005_7f40add8.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4637,
+      "token_count": 1121,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "7b66c4f9-4167-40bb-a7f2-122456bdc6fb",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0006_7b66c4f9.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4492,
+      "token_count": 1109,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "c9e6cf4f-4fc7-48ae-a3ac-e88f6dfbe19f",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0007_c9e6cf4f.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4483,
+      "token_count": 1096,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "b5ae5f73-031b-434c-a365-da477aa4a383",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0008_b5ae5f73.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4618,
+      "token_count": 1121,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "9cee0ff0-ee85-4b73-ad8c-bcb9575ef932",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0009_9cee0ff0.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4075,
+      "token_count": 969,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "68ee5e0f-973f-4cef-b992-68ca9312e594",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0010_68ee5e0f.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4612,
+      "token_count": 1154,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "3aac7879-43a7-4283-9693-28e97b4d8853",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0011_3aac7879.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4675,
+      "token_count": 1083,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "6471ab3e-3bef-4a35-ac1a-897fe3e5d1a2",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0012_6471ab3e.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 4497,
+      "token_count": 1081,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "b0849a42-7ea3-4069-aa48-5890a40b346b",
+      "filename": "chunk_Secret History #17_  Literary Genesis_0013_b0849a42.json",
+      "source_file": "txt/Secret History #17_  Literary Genesis.txt",
+      "char_count": 54,
+      "token_count": 17,
+      "chunk_index": 13
+    },
+    {
+      "chunk_id": "72ec7aa1-e245-4108-b1ed-50fa6a4cf2be",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0000_72ec7aa1.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4652,
+      "token_count": 1035,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "25dd6036-ebec-4c34-b9d7-9330451439d7",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0001_25dd6036.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4004,
+      "token_count": 896,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "bf46af7a-2b92-4ff8-90d2-27ecc9be1220",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0002_bf46af7a.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4108,
+      "token_count": 949,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "6489bed6-c3c5-43a1-b98d-cadfe1e4f122",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0003_6489bed6.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4512,
+      "token_count": 1035,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "2e7f25f7-471d-44e6-8ca3-a99eee401db8",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0004_2e7f25f7.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4527,
+      "token_count": 1080,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "b659e940-bd31-41d2-acfb-143e118b17d8",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0005_b659e940.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4585,
+      "token_count": 1050,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "8f367d90-65f8-44a8-8e9d-64f6d781fdeb",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0006_8f367d90.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4615,
+      "token_count": 1067,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "2426af9d-c819-4ad1-9517-aee8954b0794",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0007_2426af9d.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4463,
+      "token_count": 967,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "a7fa7b38-917b-48a0-9a80-af77f8f8a02d",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0008_a7fa7b38.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4666,
+      "token_count": 1045,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "af45b77e-8a16-4e66-9ed6-0308aa98740c",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0009_af45b77e.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4712,
+      "token_count": 1059,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "9801424b-c30c-4898-9f2c-5d5c3d100611",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0010_9801424b.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4612,
+      "token_count": 1021,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "cfb2e16a-fc8a-47c7-98a6-a724453aad60",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0011_cfb2e16a.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4619,
+      "token_count": 1029,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "ffa2b9a4-0393-40fd-b68b-6a62c7fb88b9",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0012_ffa2b9a4.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4423,
+      "token_count": 1026,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "c48f5a19-7478-4a8a-8678-561fa518a32a",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0013_c48f5a19.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4089,
+      "token_count": 918,
+      "chunk_index": 13
+    },
+    {
+      "chunk_id": "68de59c2-b3bb-40f5-b2e8-6879e2ed522e",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0014_68de59c2.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4626,
+      "token_count": 1103,
+      "chunk_index": 14
+    },
+    {
+      "chunk_id": "04e597d5-38d4-45fb-8ee4-a6c05e0c4cc1",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0015_04e597d5.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4621,
+      "token_count": 1039,
+      "chunk_index": 15
+    },
+    {
+      "chunk_id": "a9c77195-0525-4b84-85e8-a71162477bbe",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0016_a9c77195.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4453,
+      "token_count": 1008,
+      "chunk_index": 16
+    },
+    {
+      "chunk_id": "99781b6f-63df-4f5b-8149-f288c80f5ba4",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0017_99781b6f.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4259,
+      "token_count": 977,
+      "chunk_index": 17
+    },
+    {
+      "chunk_id": "5b88e310-0eea-4d36-a360-1bb0334fa931",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0018_5b88e310.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 4030,
+      "token_count": 969,
+      "chunk_index": 18
+    },
+    {
+      "chunk_id": "f0cb2db0-9311-4b10-904e-f4dd5123aaa2",
+      "filename": "chunk_Secret History #END_  Pax Judaica_0019_f0cb2db0.json",
+      "source_file": "txt/Secret History #END_  Pax Judaica.txt",
+      "char_count": 317,
+      "token_count": 87,
+      "chunk_index": 19
+    },
+    {
+      "chunk_id": "ad2538e4-906b-4d1b-ba49-adfbe01eb6b9",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0000_ad2538e4.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4453,
+      "token_count": 963,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "36605399-a777-469f-82bc-ecfd7643e2c4",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0001_36605399.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4638,
+      "token_count": 997,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "d75c52e1-0fc8-4432-b40a-b22a83991904",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0002_d75c52e1.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4494,
+      "token_count": 1018,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "20b12d2e-58e7-4d79-b7e6-23a9554b2667",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0003_20b12d2e.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4571,
+      "token_count": 1022,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "c9be1e9f-c40b-4851-a884-001f449667f3",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0004_c9be1e9f.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4050,
+      "token_count": 953,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "370e501c-7b4b-48e2-b9fe-1c61e5a68878",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0005_370e501c.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4083,
+      "token_count": 935,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "b765529a-787b-4c26-8506-4ea98b755aed",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0006_b765529a.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4525,
+      "token_count": 1062,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "cdd76a4c-8223-4730-b3e7-5091c6d9160c",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0007_cdd76a4c.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4562,
+      "token_count": 1099,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "7ccbe100-bfa1-4155-869e-a82b918bcefb",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0008_7ccbe100.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4579,
+      "token_count": 1104,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "0dd87b23-5481-4c0d-a691-b66705c8a692",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0009_0dd87b23.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4536,
+      "token_count": 1096,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "08f8f984-7549-46c4-940c-f4e50ea6375e",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0010_08f8f984.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4650,
+      "token_count": 1069,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "c0ed0c80-17b3-4f83-b12c-6eb9074d1a51",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0011_c0ed0c80.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4570,
+      "token_count": 1094,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "82d27860-2f22-4486-ad32-9980408f36b0",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0012_82d27860.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4056,
+      "token_count": 976,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "f756eafa-c47e-4056-b4ce-432b2af464aa",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0013_f756eafa.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4621,
+      "token_count": 1064,
+      "chunk_index": 13
+    },
+    {
+      "chunk_id": "69ba847f-90d9-4018-b793-177cf671ee5e",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0014_69ba847f.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4510,
+      "token_count": 1050,
+      "chunk_index": 14
+    },
+    {
+      "chunk_id": "a8b55aab-97e1-4581-a0a2-1d1085855a78",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0015_a8b55aab.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 4567,
+      "token_count": 1102,
+      "chunk_index": 15
+    },
+    {
+      "chunk_id": "9fd15bd8-5b4b-4515-9e80-542435513820",
+      "filename": "chunk_Secret History #26_  Faith of Evil_0016_9fd15bd8.json",
+      "source_file": "txt/Secret History #26_  Faith of Evil.txt",
+      "char_count": 3793,
+      "token_count": 918,
+      "chunk_index": 16
+    },
+    {
+      "chunk_id": "3eca105c-7300-4a94-b44a-c21b43f7804e",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0000_3eca105c.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4121,
+      "token_count": 909,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "5679ee12-0606-4755-9489-32675e5defd7",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0001_5679ee12.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4465,
+      "token_count": 983,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "ce544767-d3c1-40de-94db-4b349961f5f4",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0002_ce544767.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4524,
+      "token_count": 1037,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "bc9294ed-edf7-4a25-a5ad-530c44d3ae82",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0003_bc9294ed.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4026,
+      "token_count": 903,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "8fb97bc4-ca83-482f-8511-b385c98330ea",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0004_8fb97bc4.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4649,
+      "token_count": 1040,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "69bbe0f8-f078-4c28-8026-5c29d0d1bfc2",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0005_69bbe0f8.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4496,
+      "token_count": 1028,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "f7390577-ff37-4255-9248-43d0df125408",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0006_f7390577.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4022,
+      "token_count": 900,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "b0152246-2dca-4b8f-9ef7-86cfbf5dcfd3",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0007_b0152246.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4438,
+      "token_count": 1008,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "09956247-24f2-47e8-a5fa-3d232b21d8bc",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0008_09956247.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4048,
+      "token_count": 956,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "e84b55b6-e354-4bb4-a7b6-b5defc6b7b08",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0009_e84b55b6.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4009,
+      "token_count": 929,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "f27d55f4-960d-4d8e-afc4-974c311ca16d",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0010_f27d55f4.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4491,
+      "token_count": 1079,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "d91d7e17-b331-4754-b32e-269b0d60003f",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0011_d91d7e17.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4630,
+      "token_count": 1067,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "ecda4ac5-132f-4cfd-ab49-b8430b4a8cdc",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0012_ecda4ac5.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4553,
+      "token_count": 1038,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "20a30b52-6c91-4b7d-b721-55be996d7be7",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0013_20a30b52.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4595,
+      "token_count": 1075,
+      "chunk_index": 13
+    },
+    {
+      "chunk_id": "59c9627d-f26c-4063-8c7c-6ed770c9bc31",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0014_59c9627d.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 4453,
+      "token_count": 994,
+      "chunk_index": 14
+    },
+    {
+      "chunk_id": "fe44a18e-3663-483d-ba65-2ec732bf5086",
+      "filename": "chunk_Secret History #19_  Dawn of the Jews_0015_fe44a18e.json",
+      "source_file": "txt/Secret History #19_  Dawn of the Jews.txt",
+      "char_count": 570,
+      "token_count": 141,
+      "chunk_index": 15
+    },
+    {
+      "chunk_id": "58b7249c-9ae6-4cfa-97a4-c4138d05e312",
+      "filename": "chunk_Secret History #2_  How Societies Collapse_0000_58b7249c.json",
+      "source_file": "txt/Secret History #2_  How Societies Collapse.txt",
+      "char_count": 4603,
+      "token_count": 1036,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "a791e5e8-8d6a-4b43-9bf7-63e5cae218e3",
+      "filename": "chunk_Secret History #2_  How Societies Collapse_0001_a791e5e8.json",
+      "source_file": "txt/Secret History #2_  How Societies Collapse.txt",
+      "char_count": 4583,
+      "token_count": 1014,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "e02ea10e-3940-4180-9818-b410aed38f34",
+      "filename": "chunk_Secret History #2_  How Societies Collapse_0002_e02ea10e.json",
+      "source_file": "txt/Secret History #2_  How Societies Collapse.txt",
+      "char_count": 4521,
+      "token_count": 1035,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "b865d325-6c1a-4a97-984c-e6b7e56cc430",
+      "filename": "chunk_Secret History #2_  How Societies Collapse_0003_b865d325.json",
+      "source_file": "txt/Secret History #2_  How Societies Collapse.txt",
+      "char_count": 4451,
+      "token_count": 1026,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "d647337e-22c6-4ebe-b1fa-a19960db7732",
+      "filename": "chunk_Secret History #2_  How Societies Collapse_0004_d647337e.json",
+      "source_file": "txt/Secret History #2_  How Societies Collapse.txt",
+      "char_count": 4098,
+      "token_count": 906,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "4bbfde88-95d5-481d-b3d8-35f252e3ef5e",
+      "filename": "chunk_Secret History #2_  How Societies Collapse_0005_4bbfde88.json",
+      "source_file": "txt/Secret History #2_  How Societies Collapse.txt",
+      "char_count": 4545,
+      "token_count": 982,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "3275eeca-bc29-4869-918b-57f19456e2ac",
+      "filename": "chunk_Secret History #2_  How Societies Collapse_0006_3275eeca.json",
+      "source_file": "txt/Secret History #2_  How Societies Collapse.txt",
+      "char_count": 4482,
+      "token_count": 947,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "09fff5bb-2e97-439f-afe7-0d32980f65d1",
+      "filename": "chunk_Secret History #2_  How Societies Collapse_0007_09fff5bb.json",
+      "source_file": "txt/Secret History #2_  How Societies Collapse.txt",
+      "char_count": 4472,
+      "token_count": 1038,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "68efc81d-b5d0-4c5c-a3c1-b98ff29222c8",
+      "filename": "chunk_Secret History #2_  How Societies Collapse_0008_68efc81d.json",
+      "source_file": "txt/Secret History #2_  How Societies Collapse.txt",
+      "char_count": 4179,
+      "token_count": 970,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "5f0af958-2e32-48f4-a72b-35eba10dad52",
+      "filename": "chunk_Secret History #2_  How Societies Collapse_0009_5f0af958.json",
+      "source_file": "txt/Secret History #2_  How Societies Collapse.txt",
+      "char_count": 197,
+      "token_count": 50,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "2349aa2e-7e49-40b7-b19d-e27a9472223b",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0000_2349aa2e.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4506,
+      "token_count": 1005,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "e89ddd1e-b903-448a-981f-6fdae2f92ea1",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0001_e89ddd1e.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4181,
+      "token_count": 977,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "eb9f783c-7dd8-4765-8a9c-eecb93cba0ac",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0002_eb9f783c.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4507,
+      "token_count": 1110,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "04cfc5af-040f-4c7e-bb33-1e8331cd7470",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0003_04cfc5af.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4624,
+      "token_count": 1108,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "173720ff-82c7-40e9-840b-1534a000a249",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0004_173720ff.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4044,
+      "token_count": 876,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "d75c7196-8b0c-4954-a242-133639f90245",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0005_d75c7196.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4473,
+      "token_count": 953,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "fd6e5cf5-5497-4ca8-997a-a9e42346ba22",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0006_fd6e5cf5.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4118,
+      "token_count": 964,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "3f2eb7ba-15d4-4ee1-a963-f97fffa68217",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0007_3f2eb7ba.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4266,
+      "token_count": 1022,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "aef353da-2f67-4956-ae66-48ada76e9501",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0008_aef353da.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4563,
+      "token_count": 1092,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "5258cc43-8f6f-4a2c-8b3f-03b05ca60593",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0009_5258cc43.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4537,
+      "token_count": 1022,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "d900f4e8-21c6-4c3e-b279-f40bf7e7d506",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0010_d900f4e8.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4555,
+      "token_count": 1055,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "74ed6891-4bed-443a-8d2e-7c84fa2cbe9b",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0011_74ed6891.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4513,
+      "token_count": 1084,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "37c69c27-3c00-4b83-ae9e-b77c5da5a8c4",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0012_37c69c27.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 4534,
+      "token_count": 1033,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "6f50a119-c67f-4c65-89c7-0011a75c0599",
+      "filename": "chunk_Secret History #16_  The Big Bang of Greek Civilization_0013_6f50a119.json",
+      "source_file": "txt/Secret History #16_  The Big Bang of Greek Civilization.txt",
+      "char_count": 850,
+      "token_count": 205,
+      "chunk_index": 13
+    },
+    {
+      "chunk_id": "8292f81d-8dbf-4034-9036-b33d815a69d6",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0000_8292f81d.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4537,
+      "token_count": 1004,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "7d52c7c7-79ca-4e4d-a843-fb61aec9fcfe",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0001_7d52c7c7.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4677,
+      "token_count": 1088,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "52f0e5bd-a486-4632-8036-e508a449e1ab",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0002_52f0e5bd.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4634,
+      "token_count": 1036,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "04a49013-2487-4a83-a420-ba41363624c5",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0003_04a49013.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4582,
+      "token_count": 1059,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "92488000-b538-49f0-81f9-09701a8f8c6d",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0004_92488000.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4014,
+      "token_count": 935,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "26e2334f-cd58-47bd-a8c2-0f7090ec0958",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0005_26e2334f.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4206,
+      "token_count": 979,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "3aed2d92-d442-4c7b-a2d3-b98e657acc58",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0006_3aed2d92.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4510,
+      "token_count": 1050,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "73b052a6-5411-4cff-ba21-eca49744fcb3",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0007_73b052a6.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4557,
+      "token_count": 1078,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "114426da-e892-4684-a598-2d76b3429bd1",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0008_114426da.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4572,
+      "token_count": 1099,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "51be9d72-d8c0-452b-911b-5696f862d3e5",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0009_51be9d72.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4545,
+      "token_count": 1089,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "47428f0d-6a25-4831-b74b-e7622c89df75",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0010_47428f0d.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4658,
+      "token_count": 1084,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "64ebb652-962d-47df-812f-e13cee50767a",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0011_64ebb652.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4567,
+      "token_count": 1031,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "72327a63-0db6-4722-9fc8-2b59a94b6d65",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0012_72327a63.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4564,
+      "token_count": 1114,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "6335b7ed-54a6-4a8d-b3e8-d6dcebb43045",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0013_6335b7ed.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4554,
+      "token_count": 1063,
+      "chunk_index": 13
+    },
+    {
+      "chunk_id": "cdd8cb7d-2d7c-4b42-9aca-c7ddf017e1fb",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0014_cdd8cb7d.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4661,
+      "token_count": 1143,
+      "chunk_index": 14
+    },
+    {
+      "chunk_id": "8098b838-780c-4c84-b485-c17b07a98359",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0015_8098b838.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4624,
+      "token_count": 1065,
+      "chunk_index": 15
+    },
+    {
+      "chunk_id": "931755f3-4364-4bb5-9197-191dd4905714",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0016_931755f3.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4604,
+      "token_count": 1062,
+      "chunk_index": 16
+    },
+    {
+      "chunk_id": "62bfa436-c018-4a8e-a3b2-24a94edfcb13",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0017_62bfa436.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 4677,
+      "token_count": 1124,
+      "chunk_index": 17
+    },
+    {
+      "chunk_id": "3f0bfef9-2571-44c3-933b-dde1778b6c36",
+      "filename": "chunk_Secret History #22_  The Divine Spark of Jesus_0018_3f0bfef9.json",
+      "source_file": "txt/Secret History #22_  The Divine Spark of Jesus.txt",
+      "char_count": 1522,
+      "token_count": 369,
+      "chunk_index": 18
+    },
+    {
+      "chunk_id": "0ba5ea0c-358a-4f85-95c9-71cad638091a",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0000_0ba5ea0c.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4038,
+      "token_count": 866,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "be32b7a1-2662-4dc7-9e7c-40312d432887",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0001_be32b7a1.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4778,
+      "token_count": 1062,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "acc9cd50-29a3-466e-9322-56337ca922b6",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0002_acc9cd50.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4003,
+      "token_count": 878,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "a9c02531-09c5-425c-bfc9-01d7a31f87cd",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0003_a9c02531.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4717,
+      "token_count": 1072,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "19b207fa-b0e4-4b01-81b0-21d1b79c1b68",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0004_19b207fa.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4568,
+      "token_count": 1035,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "7152cebe-1105-4e39-8ca2-03933f315028",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0005_7152cebe.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4462,
+      "token_count": 1011,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "2bb8bd66-6f7f-43ad-8be0-7032986282ee",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0006_2bb8bd66.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4646,
+      "token_count": 1045,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "b28e272d-e559-4600-ba01-663c48820ce0",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0007_b28e272d.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4552,
+      "token_count": 1090,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "d1918bd1-f405-4e38-bc9b-355aa9504370",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0008_d1918bd1.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4645,
+      "token_count": 1128,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "a68663b2-3ddc-4c24-8cea-240b37b513e8",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0009_a68663b2.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4472,
+      "token_count": 1077,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "c209dfa3-b3fb-46df-8c9f-ddbfbad2be32",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0010_c209dfa3.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4685,
+      "token_count": 1065,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "99395bf5-8c3f-457e-84a3-797144f68287",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0011_99395bf5.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4138,
+      "token_count": 956,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "fc2b18b3-64d4-479b-83f5-9a70521eaf75",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0012_fc2b18b3.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4029,
+      "token_count": 893,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "2e93c5a3-de8a-4ba4-ac59-913157493d8a",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0013_2e93c5a3.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4061,
+      "token_count": 955,
+      "chunk_index": 13
+    },
+    {
+      "chunk_id": "ede450ee-f6bd-4dac-a179-72571c3abdd6",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0014_ede450ee.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 4678,
+      "token_count": 1086,
+      "chunk_index": 14
+    },
+    {
+      "chunk_id": "003e3b4e-786b-4060-9f98-b365461edc2d",
+      "filename": "chunk_Secret History #20_  The Hellenistic World_0015_003e3b4e.json",
+      "source_file": "txt/Secret History #20_  The Hellenistic World.txt",
+      "char_count": 2141,
+      "token_count": 490,
+      "chunk_index": 15
+    },
+    {
+      "chunk_id": "2b16e38d-f21b-496f-ace8-e59638040601",
+      "filename": "chunk_Secret History #13_  Mandate of Heaven_0000_2b16e38d.json",
+      "source_file": "txt/Secret History #13_  Mandate of Heaven.txt",
+      "char_count": 4589,
+      "token_count": 956,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "2a802f78-0060-4bc6-9669-ad246292c20a",
+      "filename": "chunk_Secret History #13_  Mandate of Heaven_0001_2a802f78.json",
+      "source_file": "txt/Secret History #13_  Mandate of Heaven.txt",
+      "char_count": 4009,
+      "token_count": 874,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "38249a08-5bc4-41c7-814f-a3331b14feab",
+      "filename": "chunk_Secret History #13_  Mandate of Heaven_0002_38249a08.json",
+      "source_file": "txt/Secret History #13_  Mandate of Heaven.txt",
+      "char_count": 4596,
+      "token_count": 993,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "94da5835-db5b-40d7-91ad-dabe0cdf0bc2",
+      "filename": "chunk_Secret History #13_  Mandate of Heaven_0003_94da5835.json",
+      "source_file": "txt/Secret History #13_  Mandate of Heaven.txt",
+      "char_count": 4537,
+      "token_count": 1007,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "36b8d525-9c0f-4ae2-85dd-9ff6775b7664",
+      "filename": "chunk_Secret History #13_  Mandate of Heaven_0004_36b8d525.json",
+      "source_file": "txt/Secret History #13_  Mandate of Heaven.txt",
+      "char_count": 4520,
+      "token_count": 1066,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "dd3f50e3-d6fe-4d60-8351-dabed68db4bb",
+      "filename": "chunk_Secret History #13_  Mandate of Heaven_0005_dd3f50e3.json",
+      "source_file": "txt/Secret History #13_  Mandate of Heaven.txt",
+      "char_count": 4242,
+      "token_count": 961,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "ae8b73f5-4f29-41e6-868e-b6c1bd8b935d",
+      "filename": "chunk_Secret History #13_  Mandate of Heaven_0006_ae8b73f5.json",
+      "source_file": "txt/Secret History #13_  Mandate of Heaven.txt",
+      "char_count": 4617,
+      "token_count": 1051,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "dd09fc63-6dab-44ce-90af-c6364d4c4e2b",
+      "filename": "chunk_Secret History #13_  Mandate of Heaven_0007_dd09fc63.json",
+      "source_file": "txt/Secret History #13_  Mandate of Heaven.txt",
+      "char_count": 4558,
+      "token_count": 977,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "7bb0eb91-302d-40cb-8bf8-45c149e79864",
+      "filename": "chunk_Secret History #13_  Mandate of Heaven_0008_7bb0eb91.json",
+      "source_file": "txt/Secret History #13_  Mandate of Heaven.txt",
+      "char_count": 4574,
+      "token_count": 1064,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "c6fa7a12-552c-4faf-a635-ce4995b29872",
+      "filename": "chunk_Secret History #13_  Mandate of Heaven_0009_c6fa7a12.json",
+      "source_file": "txt/Secret History #13_  Mandate of Heaven.txt",
+      "char_count": 4027,
+      "token_count": 928,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "efa4d7f6-893b-463f-b859-a0de5ba06866",
+      "filename": "chunk_Secret History #13_  Mandate of Heaven_0010_efa4d7f6.json",
+      "source_file": "txt/Secret History #13_  Mandate of Heaven.txt",
+      "char_count": 4156,
+      "token_count": 944,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "973a73dc-3ef0-432c-8d55-9b86afb97a9f",
+      "filename": "chunk_Secret History #13_  Mandate of Heaven_0011_973a73dc.json",
+      "source_file": "txt/Secret History #13_  Mandate of Heaven.txt",
+      "char_count": 1390,
+      "token_count": 312,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "98f93901-68de-45f5-9ccc-23ea40c78817",
+      "filename": "chunk_Secret History #15_  Capital and the Bronze Age Collapse_0000_98f93901.json",
+      "source_file": "txt/Secret History #15_  Capital and the Bronze Age Collapse.txt",
+      "char_count": 4122,
+      "token_count": 913,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "04cff948-acae-45e1-b33e-5fc0b3ffc9e0",
+      "filename": "chunk_Secret History #15_  Capital and the Bronze Age Collapse_0001_04cff948.json",
+      "source_file": "txt/Secret History #15_  Capital and the Bronze Age Collapse.txt",
+      "char_count": 4550,
+      "token_count": 1021,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "b5ad122a-1c03-4219-9085-866f114af305",
+      "filename": "chunk_Secret History #15_  Capital and the Bronze Age Collapse_0002_b5ad122a.json",
+      "source_file": "txt/Secret History #15_  Capital and the Bronze Age Collapse.txt",
+      "char_count": 4704,
+      "token_count": 1102,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "a0da408a-29a3-4cc6-843f-08686ed98c07",
+      "filename": "chunk_Secret History #15_  Capital and the Bronze Age Collapse_0003_a0da408a.json",
+      "source_file": "txt/Secret History #15_  Capital and the Bronze Age Collapse.txt",
+      "char_count": 4472,
+      "token_count": 985,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "00e809c9-179a-4ad5-99b1-0dc9c5a0119f",
+      "filename": "chunk_Secret History #15_  Capital and the Bronze Age Collapse_0004_00e809c9.json",
+      "source_file": "txt/Secret History #15_  Capital and the Bronze Age Collapse.txt",
+      "char_count": 4456,
+      "token_count": 1033,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "cd2dfbdd-7483-426b-83f0-c11fdf28456b",
+      "filename": "chunk_Secret History #15_  Capital and the Bronze Age Collapse_0005_cd2dfbdd.json",
+      "source_file": "txt/Secret History #15_  Capital and the Bronze Age Collapse.txt",
+      "char_count": 4111,
+      "token_count": 935,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "3fdce00d-8b22-4e5b-a067-ccace6d12e42",
+      "filename": "chunk_Secret History #15_  Capital and the Bronze Age Collapse_0006_3fdce00d.json",
+      "source_file": "txt/Secret History #15_  Capital and the Bronze Age Collapse.txt",
+      "char_count": 4013,
+      "token_count": 945,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "f5a4b47c-5d9f-45dd-8037-5e3c797b4fe6",
+      "filename": "chunk_Secret History #15_  Capital and the Bronze Age Collapse_0007_f5a4b47c.json",
+      "source_file": "txt/Secret History #15_  Capital and the Bronze Age Collapse.txt",
+      "char_count": 4584,
+      "token_count": 1123,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "d1e6b017-70b7-4abd-a908-bfdb4188cca8",
+      "filename": "chunk_Secret History #15_  Capital and the Bronze Age Collapse_0008_d1e6b017.json",
+      "source_file": "txt/Secret History #15_  Capital and the Bronze Age Collapse.txt",
+      "char_count": 4504,
+      "token_count": 1027,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "a3645686-ade4-4543-b12a-e21b674100e9",
+      "filename": "chunk_Secret History #15_  Capital and the Bronze Age Collapse_0009_a3645686.json",
+      "source_file": "txt/Secret History #15_  Capital and the Bronze Age Collapse.txt",
+      "char_count": 4489,
+      "token_count": 1076,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "2142b6cf-2076-4585-8d79-2c8cc9a6d7ae",
+      "filename": "chunk_Secret History #15_  Capital and the Bronze Age Collapse_0010_2142b6cf.json",
+      "source_file": "txt/Secret History #15_  Capital and the Bronze Age Collapse.txt",
+      "char_count": 3690,
+      "token_count": 853,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "e1f1f766-6256-4c8c-8e2d-528097ebf3b3",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0000_e1f1f766.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 4034,
+      "token_count": 855,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "f6786887-3658-40bc-925e-077bddc408f1",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0001_f6786887.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 4468,
+      "token_count": 1041,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "73f79a8d-cfe5-4e3a-a001-7fd5f8be0f40",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0002_73f79a8d.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 4614,
+      "token_count": 1050,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "76e631d4-3b75-4bf9-bb00-a62784ca01bf",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0003_76e631d4.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 4546,
+      "token_count": 983,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "d4986746-b9f0-4c6d-8cd4-371fafa04229",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0004_d4986746.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 4584,
+      "token_count": 1053,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "b9a7b887-bd52-4999-a1f3-1cfc74322aa2",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0005_b9a7b887.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 4485,
+      "token_count": 1050,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "08975a71-a3fa-4b49-abd9-75c9746b4018",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0006_08975a71.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 4639,
+      "token_count": 1078,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "db3e7e4f-02ea-4d37-a363-b56f11c913c9",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0007_db3e7e4f.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 4481,
+      "token_count": 1007,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "c21b7b0e-d629-44bc-a3fb-0b331eaf8e11",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0008_c21b7b0e.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 4432,
+      "token_count": 1029,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "0907200d-e14f-4ca5-9653-9c96d583e7c2",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0009_0907200d.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 4533,
+      "token_count": 1022,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "001d4339-b1c9-4792-8baa-1d91abc6c0bb",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0010_001d4339.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 4430,
+      "token_count": 1002,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "a03438a4-9879-48be-a851-38975b838fe1",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0011_a03438a4.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 4541,
+      "token_count": 1008,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "6be81fcc-43c3-4930-b01d-00ac79ef35c9",
+      "filename": "chunk_Secret History #11_  Dawn of the Human Imagination_0012_6be81fcc.json",
+      "source_file": "txt/Secret History #11_  Dawn of the Human Imagination.txt",
+      "char_count": 287,
+      "token_count": 72,
+      "chunk_index": 12
+    },
+    {
+      "chunk_id": "c2d98a1a-633d-40c4-9802-da2304b7e346",
+      "filename": "chunk_Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)_0000_c2d98a1a.json",
+      "source_file": "txt/Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised).txt",
+      "char_count": 4396,
+      "token_count": 959,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "28cce43f-4845-468e-80aa-df5e4a8474e8",
+      "filename": "chunk_Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)_0001_28cce43f.json",
+      "source_file": "txt/Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised).txt",
+      "char_count": 4480,
+      "token_count": 1028,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "89841b79-f3ac-495f-b95b-b49cd93a278f",
+      "filename": "chunk_Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)_0002_89841b79.json",
+      "source_file": "txt/Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised).txt",
+      "char_count": 4466,
+      "token_count": 1095,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "076d83bf-a5c1-446d-9da3-359849e9ffb7",
+      "filename": "chunk_Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)_0003_076d83bf.json",
+      "source_file": "txt/Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised).txt",
+      "char_count": 4516,
+      "token_count": 1012,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "82d8f23b-c3b4-452d-bf68-52502fbbe080",
+      "filename": "chunk_Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)_0004_82d8f23b.json",
+      "source_file": "txt/Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised).txt",
+      "char_count": 4829,
+      "token_count": 1111,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "b3317ba2-9281-48f6-9f25-c3e186c35a2c",
+      "filename": "chunk_Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)_0005_b3317ba2.json",
+      "source_file": "txt/Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised).txt",
+      "char_count": 4166,
+      "token_count": 996,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "04279769-df42-4426-ac21-6b1faf016c39",
+      "filename": "chunk_Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)_0006_04279769.json",
+      "source_file": "txt/Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised).txt",
+      "char_count": 4431,
+      "token_count": 963,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "8ab79079-c53d-43cd-a32f-f75c7c4ea8e3",
+      "filename": "chunk_Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)_0007_8ab79079.json",
+      "source_file": "txt/Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised).txt",
+      "char_count": 4434,
+      "token_count": 1031,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "363a40b6-26e1-42a2-8e85-2917fb4ba4ba",
+      "filename": "chunk_Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)_0008_363a40b6.json",
+      "source_file": "txt/Secret History #6_  The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised).txt",
+      "char_count": 2845,
+      "token_count": 657,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "d3159b2c-4366-479c-a0d4-51c927d573ec",
+      "filename": "chunk_Secret History #12_  Heaven on Earth_0000_d3159b2c.json",
+      "source_file": "txt/Secret History #12_  Heaven on Earth.txt",
+      "char_count": 4005,
+      "token_count": 891,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "9879d869-65f1-4d8e-bddf-bc41ae0cef18",
+      "filename": "chunk_Secret History #12_  Heaven on Earth_0001_9879d869.json",
+      "source_file": "txt/Secret History #12_  Heaven on Earth.txt",
+      "char_count": 4481,
+      "token_count": 997,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "bb86244d-cdd1-45a6-b24d-880270e0ccfa",
+      "filename": "chunk_Secret History #12_  Heaven on Earth_0002_bb86244d.json",
+      "source_file": "txt/Secret History #12_  Heaven on Earth.txt",
+      "char_count": 4514,
+      "token_count": 1071,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "7cf8a095-0ac7-44dd-92f8-43d077b8180f",
+      "filename": "chunk_Secret History #12_  Heaven on Earth_0003_7cf8a095.json",
+      "source_file": "txt/Secret History #12_  Heaven on Earth.txt",
+      "char_count": 4548,
+      "token_count": 1045,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "d748d24f-1ff5-47ac-b763-bd2d28491453",
+      "filename": "chunk_Secret History #12_  Heaven on Earth_0004_d748d24f.json",
+      "source_file": "txt/Secret History #12_  Heaven on Earth.txt",
+      "char_count": 4519,
+      "token_count": 1034,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "d0aabec5-d54c-4429-abcd-5d3b50c22872",
+      "filename": "chunk_Secret History #12_  Heaven on Earth_0005_d0aabec5.json",
+      "source_file": "txt/Secret History #12_  Heaven on Earth.txt",
+      "char_count": 4633,
+      "token_count": 1024,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "7b8dfa9c-2497-4b3d-a5d4-d2e5041432a3",
+      "filename": "chunk_Secret History #12_  Heaven on Earth_0006_7b8dfa9c.json",
+      "source_file": "txt/Secret History #12_  Heaven on Earth.txt",
+      "char_count": 4519,
+      "token_count": 1039,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "b2dcccab-d300-413c-bd4d-31ff8671dd94",
+      "filename": "chunk_Secret History #12_  Heaven on Earth_0007_b2dcccab.json",
+      "source_file": "txt/Secret History #12_  Heaven on Earth.txt",
+      "char_count": 4021,
+      "token_count": 841,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "80d4e8aa-0222-4de9-8c85-79333fe6649b",
+      "filename": "chunk_Secret History #12_  Heaven on Earth_0008_80d4e8aa.json",
+      "source_file": "txt/Secret History #12_  Heaven on Earth.txt",
+      "char_count": 4435,
+      "token_count": 932,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "6ba2c99e-28f6-4ed2-92ee-4bc9323fe23b",
+      "filename": "chunk_Secret History #12_  Heaven on Earth_0009_6ba2c99e.json",
+      "source_file": "txt/Secret History #12_  Heaven on Earth.txt",
+      "char_count": 4656,
+      "token_count": 1031,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "831333fd-de61-4b58-b1ee-2d8a8e49c5e9",
+      "filename": "chunk_Secret History #12_  Heaven on Earth_0010_831333fd.json",
+      "source_file": "txt/Secret History #12_  Heaven on Earth.txt",
+      "char_count": 4002,
+      "token_count": 924,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "42bb1ab2-bf00-49ab-a9b1-c9abe2e48728",
+      "filename": "chunk_Secret History #12_  Heaven on Earth_0011_42bb1ab2.json",
+      "source_file": "txt/Secret History #12_  Heaven on Earth.txt",
+      "char_count": 2948,
+      "token_count": 722,
+      "chunk_index": 11
+    },
+    {
+      "chunk_id": "a4d6cf31-9c2c-4858-b74d-be3af9231583",
+      "filename": "chunk_Secret History #8_  Death by Bureaucracy_0000_a4d6cf31.json",
+      "source_file": "txt/Secret History #8_  Death by Bureaucracy.txt",
+      "char_count": 4590,
+      "token_count": 1026,
+      "chunk_index": 0
+    },
+    {
+      "chunk_id": "0cfa671b-9c8c-4bea-b403-ee3405d8e580",
+      "filename": "chunk_Secret History #8_  Death by Bureaucracy_0001_0cfa671b.json",
+      "source_file": "txt/Secret History #8_  Death by Bureaucracy.txt",
+      "char_count": 4489,
+      "token_count": 978,
+      "chunk_index": 1
+    },
+    {
+      "chunk_id": "5eea511b-2526-462e-9570-687ef6251d88",
+      "filename": "chunk_Secret History #8_  Death by Bureaucracy_0002_5eea511b.json",
+      "source_file": "txt/Secret History #8_  Death by Bureaucracy.txt",
+      "char_count": 4700,
+      "token_count": 1072,
+      "chunk_index": 2
+    },
+    {
+      "chunk_id": "ec11b9fc-d52a-43be-bf19-8143926fb37b",
+      "filename": "chunk_Secret History #8_  Death by Bureaucracy_0003_ec11b9fc.json",
+      "source_file": "txt/Secret History #8_  Death by Bureaucracy.txt",
+      "char_count": 4449,
+      "token_count": 984,
+      "chunk_index": 3
+    },
+    {
+      "chunk_id": "d708161b-14ca-4e57-aa79-289dbcf8fe1c",
+      "filename": "chunk_Secret History #8_  Death by Bureaucracy_0004_d708161b.json",
+      "source_file": "txt/Secret History #8_  Death by Bureaucracy.txt",
+      "char_count": 4520,
+      "token_count": 1028,
+      "chunk_index": 4
+    },
+    {
+      "chunk_id": "5d6586df-8dba-4724-b92c-0c0e0dfd50f2",
+      "filename": "chunk_Secret History #8_  Death by Bureaucracy_0005_5d6586df.json",
+      "source_file": "txt/Secret History #8_  Death by Bureaucracy.txt",
+      "char_count": 4576,
+      "token_count": 1047,
+      "chunk_index": 5
+    },
+    {
+      "chunk_id": "8f4c9753-0e8e-4905-8c02-7abc496e8ec7",
+      "filename": "chunk_Secret History #8_  Death by Bureaucracy_0006_8f4c9753.json",
+      "source_file": "txt/Secret History #8_  Death by Bureaucracy.txt",
+      "char_count": 4534,
+      "token_count": 1046,
+      "chunk_index": 6
+    },
+    {
+      "chunk_id": "234e6034-4fff-40cf-96d4-b1a53da159e3",
+      "filename": "chunk_Secret History #8_  Death by Bureaucracy_0007_234e6034.json",
+      "source_file": "txt/Secret History #8_  Death by Bureaucracy.txt",
+      "char_count": 4520,
+      "token_count": 1013,
+      "chunk_index": 7
+    },
+    {
+      "chunk_id": "11b8b733-d39a-4d97-9ebe-f3390a1f23bc",
+      "filename": "chunk_Secret History #8_  Death by Bureaucracy_0008_11b8b733.json",
+      "source_file": "txt/Secret History #8_  Death by Bureaucracy.txt",
+      "char_count": 4494,
+      "token_count": 1044,
+      "chunk_index": 8
+    },
+    {
+      "chunk_id": "c43a05d0-8472-47ec-b794-4ec2279d9841",
+      "filename": "chunk_Secret History #8_  Death by Bureaucracy_0009_c43a05d0.json",
+      "source_file": "txt/Secret History #8_  Death by Bureaucracy.txt",
+      "char_count": 4551,
+      "token_count": 1023,
+      "chunk_index": 9
+    },
+    {
+      "chunk_id": "ae81229c-98e5-4636-9e2d-e44715acfef4",
+      "filename": "chunk_Secret History #8_  Death by Bureaucracy_0010_ae81229c.json",
+      "source_file": "txt/Secret History #8_  Death by Bureaucracy.txt",
+      "char_count": 4049,
+      "token_count": 918,
+      "chunk_index": 10
+    },
+    {
+      "chunk_id": "5ccd1b1e-26bb-4678-835a-fdde9ee41a80",
+      "filename": "chunk_Secret History #8_  Death by Bureaucracy_0011_5ccd1b1e.json",
+      "source_file": "txt/Secret History #8_  Death by Bureaucracy.txt",
+      "char_count": 2463,
+      "token_count": 597,
+      "chunk_index": 11
+    }
+  ]
+}
