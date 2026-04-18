@@ -1,0 +1,15 @@
+{
+  "processor": "logic_extraction",
+  "model": "MiniMax-M2.7",
+  "api_url": "https://api.minimaxi.com/anthropic/v1/messages",
+  "parallel_workers": 4,
+  "timestamp": "2026-04-17T18:52:32.832321",
+  "stats": {
+    "total": 389,
+    "processed": 389,
+    "failed": 0,
+    "errors": [],
+    "total_concepts_extracted": 2559
+  },
+  "output_file": "output_test/logic_extraction.jsonl"
+}
