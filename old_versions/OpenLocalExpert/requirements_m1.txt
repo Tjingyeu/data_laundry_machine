@@ -1,0 +1,28 @@
+# requirements_m1.txt
+# M1 Pro 苹果芯片优化版依赖
+
+# 核心框架
+torch
+transformers
+datasets
+accelerate
+
+# 量化支持（内存优化）
+bitsandbytes  # 4bit量化
+safetensors
+
+# Apple Silicon优化
+mlx  # 苹果官方ML加速（备选）
+
+# 训练辅助
+scipy
+scikit-learn
+
+# 数据处理
+numpy
+pandas
+tqdm
+
+# 评估
+rouge-score
+nltk

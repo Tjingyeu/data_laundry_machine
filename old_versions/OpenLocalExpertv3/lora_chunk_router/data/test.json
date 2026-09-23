@@ -1,0 +1,2487 @@
+[
+  {
+    "query": "What did he say about Armstrong?",
+    "label": "CH_0002",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain President?",
+    "label": "CH_0003",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Commission?",
+    "label": "CH_0004",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Commission?",
+    "label": "CH_0005",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Northwoods?",
+    "label": "CH_0006",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with States?",
+    "label": "CH_0007",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with YouTube?",
+    "label": "CH_0008",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Historical?",
+    "label": "CH_0009",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Nakasaki?",
+    "label": "CH_0010",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Therefore?",
+    "label": "CH_0011",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Moonlanding?",
+    "label": "CH_0012",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Shaquille?",
+    "label": "CH_0013",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Terrorists?",
+    "label": "CH_0014",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with American?",
+    "label": "CH_0015",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Christian?",
+    "label": "CH_0016",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Christians?",
+    "label": "CH_0017",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Everyone?",
+    "label": "CH_0018",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Because?",
+    "label": "CH_0019",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Germany?",
+    "label": "CH_0020",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Genevie?",
+    "label": "CH_0021",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Sorry?",
+    "label": "CH_0022",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Meaning?",
+    "label": "CH_0023",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Animals?",
+    "label": "CH_0024",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Only?",
+    "label": "CH_0025",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Paradise?",
+    "label": "CH_0026",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Alzheimer?",
+    "label": "CH_0027",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Ventang?",
+    "label": "CH_0028",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Civilization?",
+    "label": "CH_0029",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Effing?",
+    "label": "CH_0030",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain United?",
+    "label": "CH_0031",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Severing?",
+    "label": "CH_0032",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Zorakiski?",
+    "label": "CH_0033",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Number?",
+    "label": "CH_0034",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Polynesian?",
+    "label": "CH_0035",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Pacific?",
+    "label": "CH_0036",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Pharaoh?",
+    "label": "CH_0037",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Charlemagne?",
+    "label": "CH_0038",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0039",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Jericho?",
+    "label": "CH_0040",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Hunter?",
+    "label": "CH_0041",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Beijing?",
+    "label": "CH_0042",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Canadian?",
+    "label": "CH_0043",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Without?",
+    "label": "CH_0044",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Normally?",
+    "label": "CH_0045",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about France?",
+    "label": "CH_0046",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Egyptians?",
+    "label": "CH_0047",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0048",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Mesopenia?",
+    "label": "CH_0049",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Mesopotamia?",
+    "label": "CH_0050",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Remember?",
+    "label": "CH_0051",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Unfortunately?",
+    "label": "CH_0052",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Therefore?",
+    "label": "CH_0053",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Mesopotamia?",
+    "label": "CH_0054",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Anunnaki?",
+    "label": "CH_0055",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Mesopotania?",
+    "label": "CH_0056",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Connecticut?",
+    "label": "CH_0057",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Giggamash?",
+    "label": "CH_0058",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Eventually?",
+    "label": "CH_0059",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Mesopotain?",
+    "label": "CH_0060",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Egyptian?",
+    "label": "CH_0061",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Egyptians?",
+    "label": "CH_0062",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Civilization?",
+    "label": "CH_0063",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Cooperation?",
+    "label": "CH_0064",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Hierarchy?",
+    "label": "CH_0065",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0066",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Britannia?",
+    "label": "CH_0067",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Primogenature?",
+    "label": "CH_0068",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Khan?",
+    "label": "CH_0069",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Zarastrianism?",
+    "label": "CH_0070",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Therefore?",
+    "label": "CH_0071",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Europeans?",
+    "label": "CH_0072",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Because?",
+    "label": "CH_0073",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Eventually?",
+    "label": "CH_0074",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Vulnerable?",
+    "label": "CH_0075",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0076",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Timberlane?",
+    "label": "CH_0077",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Therefore?",
+    "label": "CH_0078",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Mesopotamian?",
+    "label": "CH_0079",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Unitarian?",
+    "label": "CH_0080",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Because?",
+    "label": "CH_0081",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Scandinavia?",
+    "label": "CH_0082",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Washington?",
+    "label": "CH_0083",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Transporting?",
+    "label": "CH_0084",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Afghanistan?",
+    "label": "CH_0085",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Europeans?",
+    "label": "CH_0086",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain China?",
+    "label": "CH_0087",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Grabber?",
+    "label": "CH_0088",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Monthly?",
+    "label": "CH_0089",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Johnson?",
+    "label": "CH_0090",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0091",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Minanian?",
+    "label": "CH_0092",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Odyssey?",
+    "label": "CH_0093",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Aphrodite?",
+    "label": "CH_0094",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Achilles?",
+    "label": "CH_0095",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Achilles?",
+    "label": "CH_0096",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Achilles?",
+    "label": "CH_0097",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Neolithic?",
+    "label": "CH_0098",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Possession?",
+    "label": "CH_0099",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Achilles?",
+    "label": "CH_0100",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Condemned?",
+    "label": "CH_0101",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Proacles?",
+    "label": "CH_0102",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Prooseidon?",
+    "label": "CH_0103",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Children?",
+    "label": "CH_0104",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Achilles?",
+    "label": "CH_0105",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Heroditus?",
+    "label": "CH_0106",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Lighthouse?",
+    "label": "CH_0107",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with YouTube?",
+    "label": "CH_0108",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Children?",
+    "label": "CH_0109",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Egyptians?",
+    "label": "CH_0110",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Anatolians?",
+    "label": "CH_0111",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Bible?",
+    "label": "CH_0112",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Ride?",
+    "label": "CH_0113",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Adam?",
+    "label": "CH_0114",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Because?",
+    "label": "CH_0115",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Garden?",
+    "label": "CH_0116",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Abraham?",
+    "label": "CH_0117",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Gomorrah?",
+    "label": "CH_0118",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Abraham?",
+    "label": "CH_0119",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Economy?",
+    "label": "CH_0120",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Hollywood?",
+    "label": "CH_0121",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Admiral?",
+    "label": "CH_0122",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Ammonites?",
+    "label": "CH_0123",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Genesis?",
+    "label": "CH_0124",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Remember?",
+    "label": "CH_0125",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Infallible?",
+    "label": "CH_0126",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Reincarnation?",
+    "label": "CH_0127",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0128",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Otherwise?",
+    "label": "CH_0129",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Everyone?",
+    "label": "CH_0130",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Zorathusa?",
+    "label": "CH_0131",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Violence?",
+    "label": "CH_0132",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Between?",
+    "label": "CH_0133",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Zorathustra?",
+    "label": "CH_0134",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Christians?",
+    "label": "CH_0135",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Otherwise?",
+    "label": "CH_0136",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Buddhism?",
+    "label": "CH_0137",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Embrace?",
+    "label": "CH_0138",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Struggle?",
+    "label": "CH_0139",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Universe?",
+    "label": "CH_0140",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Compare?",
+    "label": "CH_0141",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Because?",
+    "label": "CH_0142",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain YouTube?",
+    "label": "CH_0143",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Chinese?",
+    "label": "CH_0144",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Chinese?",
+    "label": "CH_0145",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Euphrates?",
+    "label": "CH_0146",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Jerusalem?",
+    "label": "CH_0147",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Babylonian?",
+    "label": "CH_0148",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Mesopania?",
+    "label": "CH_0149",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Babylonians?",
+    "label": "CH_0150",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Jerusalem?",
+    "label": "CH_0151",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Jeremiah?",
+    "label": "CH_0152",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Israelites?",
+    "label": "CH_0153",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Jerusalem?",
+    "label": "CH_0154",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Zorashianism?",
+    "label": "CH_0155",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Jerusalem?",
+    "label": "CH_0156",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Persians?",
+    "label": "CH_0157",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Jerusalem?",
+    "label": "CH_0158",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Watergate?",
+    "label": "CH_0159",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Saturday?",
+    "label": "CH_0160",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0161",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Palestines?",
+    "label": "CH_0162",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Welcome?",
+    "label": "CH_0163",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Because?",
+    "label": "CH_0164",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Agriculture?",
+    "label": "CH_0165",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Because?",
+    "label": "CH_0166",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Because?",
+    "label": "CH_0167",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Otherwise?",
+    "label": "CH_0168",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Relationships?",
+    "label": "CH_0169",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Beijing?",
+    "label": "CH_0170",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Dianesis?",
+    "label": "CH_0171",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Because?",
+    "label": "CH_0172",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0173",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Brainwashing?",
+    "label": "CH_0174",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Prussians?",
+    "label": "CH_0175",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Insecure?",
+    "label": "CH_0176",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Christianity?",
+    "label": "CH_0177",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Republic?",
+    "label": "CH_0178",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Surely?",
+    "label": "CH_0179",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Mesopotamia?",
+    "label": "CH_0180",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Meaning?",
+    "label": "CH_0181",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Macedonians?",
+    "label": "CH_0182",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Macedonians?",
+    "label": "CH_0183",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Christianity?",
+    "label": "CH_0184",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Mesopotamia?",
+    "label": "CH_0185",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Americans?",
+    "label": "CH_0186",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Athenians?",
+    "label": "CH_0187",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Heroditus?",
+    "label": "CH_0188",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Mardonius?",
+    "label": "CH_0189",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Mardonius?",
+    "label": "CH_0190",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Athenians?",
+    "label": "CH_0191",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Athenians?",
+    "label": "CH_0192",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Athenians?",
+    "label": "CH_0193",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Macedonia?",
+    "label": "CH_0194",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Macedonian?",
+    "label": "CH_0195",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Achilles?",
+    "label": "CH_0196",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Egyptians?",
+    "label": "CH_0197",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Septuagent?",
+    "label": "CH_0198",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Brontage?",
+    "label": "CH_0199",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Greeks?",
+    "label": "CH_0200",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Mediterranean?",
+    "label": "CH_0201",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Carthaginian?",
+    "label": "CH_0202",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Carthage?",
+    "label": "CH_0203",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Alexander?",
+    "label": "CH_0204",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0205",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Competition?",
+    "label": "CH_0206",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Pretty?",
+    "label": "CH_0207",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Federation?",
+    "label": "CH_0208",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Augustus?",
+    "label": "CH_0209",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Romulus?",
+    "label": "CH_0210",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Because?",
+    "label": "CH_0211",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Lucricia?",
+    "label": "CH_0212",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Buddhist?",
+    "label": "CH_0213",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Prudence?",
+    "label": "CH_0214",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Considered?",
+    "label": "CH_0215",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Neoptoamus?",
+    "label": "CH_0216",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Symposium?",
+    "label": "CH_0217",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Napoleon?",
+    "label": "CH_0218",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Athenians?",
+    "label": "CH_0219",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Himalayas?",
+    "label": "CH_0220",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain British?",
+    "label": "CH_0221",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Christians?",
+    "label": "CH_0222",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Ibionites?",
+    "label": "CH_0223",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Christians?",
+    "label": "CH_0224",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Pharisees?",
+    "label": "CH_0225",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Romans?",
+    "label": "CH_0226",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Zoroastrianism?",
+    "label": "CH_0227",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Achilles?",
+    "label": "CH_0228",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Christianity?",
+    "label": "CH_0229",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Whereas?",
+    "label": "CH_0230",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Zorustra?",
+    "label": "CH_0231",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Whoever?",
+    "label": "CH_0232",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Pharisees?",
+    "label": "CH_0233",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Hinduism?",
+    "label": "CH_0234",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Eventually?",
+    "label": "CH_0235",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Catholic?",
+    "label": "CH_0236",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0237",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Achilles?",
+    "label": "CH_0238",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Inquisitor?",
+    "label": "CH_0239",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Church?",
+    "label": "CH_0240",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Beatric?",
+    "label": "CH_0241",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Because?",
+    "label": "CH_0242",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Whereas?",
+    "label": "CH_0243",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Leonardo?",
+    "label": "CH_0244",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Instead?",
+    "label": "CH_0245",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Catholic?",
+    "label": "CH_0246",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Catholic?",
+    "label": "CH_0247",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Christianity?",
+    "label": "CH_0248",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Because?",
+    "label": "CH_0249",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Christianity?",
+    "label": "CH_0250",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Christianity?",
+    "label": "CH_0251",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Christians?",
+    "label": "CH_0252",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Jerusalem?",
+    "label": "CH_0253",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Gentiles?",
+    "label": "CH_0254",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Christian?",
+    "label": "CH_0255",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Christian?",
+    "label": "CH_0256",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Gentiles?",
+    "label": "CH_0257",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Circumcision?",
+    "label": "CH_0258",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Everyone?",
+    "label": "CH_0259",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain HAMBURGERS?",
+    "label": "CH_0260",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Eucharist?",
+    "label": "CH_0261",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Eucharist?",
+    "label": "CH_0262",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Victorian?",
+    "label": "CH_0263",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Christ?",
+    "label": "CH_0264",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Therefore?",
+    "label": "CH_0265",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with McDonald?",
+    "label": "CH_0266",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Christianity?",
+    "label": "CH_0267",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Consequently?",
+    "label": "CH_0268",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Because?",
+    "label": "CH_0269",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Protestants?",
+    "label": "CH_0270",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Christians?",
+    "label": "CH_0271",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Petricians?",
+    "label": "CH_0272",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Catholic?",
+    "label": "CH_0273",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Constantine?",
+    "label": "CH_0274",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Neestorans?",
+    "label": "CH_0275",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Partialism?",
+    "label": "CH_0276",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Valley?",
+    "label": "CH_0277",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Bisantines?",
+    "label": "CH_0278",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Christianity?",
+    "label": "CH_0279",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Constantinople?",
+    "label": "CH_0280",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Catholic?",
+    "label": "CH_0281",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Zoroastrians?",
+    "label": "CH_0282",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Protestants?",
+    "label": "CH_0283",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Christian?",
+    "label": "CH_0284",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Jerusalem?",
+    "label": "CH_0285",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Charlemagne?",
+    "label": "CH_0286",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Assuredly?",
+    "label": "CH_0287",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Augustine?",
+    "label": "CH_0288",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Jerusalem?",
+    "label": "CH_0289",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Christians?",
+    "label": "CH_0290",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Ultimately?",
+    "label": "CH_0291",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Protestatismism?",
+    "label": "CH_0292",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Anxiety?",
+    "label": "CH_0293",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Jack?",
+    "label": "CH_0294",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Singapore?",
+    "label": "CH_0295",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain America?",
+    "label": "CH_0296",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0297",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Throughout?",
+    "label": "CH_0298",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Spartans?",
+    "label": "CH_0299",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Assassin?",
+    "label": "CH_0300",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Merchant?",
+    "label": "CH_0301",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Reformation?",
+    "label": "CH_0302",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Christians?",
+    "label": "CH_0303",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Protestant?",
+    "label": "CH_0304",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Freemasons?",
+    "label": "CH_0305",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Venetians?",
+    "label": "CH_0306",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Reformation?",
+    "label": "CH_0307",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Parliament?",
+    "label": "CH_0308",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Vanderbilt?",
+    "label": "CH_0309",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Washington?",
+    "label": "CH_0310",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Mediterranean?",
+    "label": "CH_0311",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Makabian?",
+    "label": "CH_0312",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Christian?",
+    "label": "CH_0313",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Christians?",
+    "label": "CH_0314",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Christians?",
+    "label": "CH_0315",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Jerusalem?",
+    "label": "CH_0316",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Christianity?",
+    "label": "CH_0317",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Saturday?",
+    "label": "CH_0318",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Therefore?",
+    "label": "CH_0319",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Literally?",
+    "label": "CH_0320",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0321",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Everyone?",
+    "label": "CH_0322",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Animals?",
+    "label": "CH_0323",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Warsaw?",
+    "label": "CH_0324",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Immediately?",
+    "label": "CH_0325",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Therefore?",
+    "label": "CH_0326",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with These?",
+    "label": "CH_0327",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Exposition?",
+    "label": "CH_0328",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Television?",
+    "label": "CH_0329",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain September?",
+    "label": "CH_0330",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Relentless?",
+    "label": "CH_0331",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Freemasons?",
+    "label": "CH_0332",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0333",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Frankets?",
+    "label": "CH_0334",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Christians?",
+    "label": "CH_0335",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Russians?",
+    "label": "CH_0336",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Rothschild?",
+    "label": "CH_0337",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Rothschild?",
+    "label": "CH_0338",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Rothschild?",
+    "label": "CH_0339",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Christristenos?",
+    "label": "CH_0340",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Frederick?",
+    "label": "CH_0341",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Imagination?",
+    "label": "CH_0342",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Petersburg?",
+    "label": "CH_0343",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Sidonians?",
+    "label": "CH_0344",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Ukrainians?",
+    "label": "CH_0345",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Petrograde?",
+    "label": "CH_0346",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Leontrosky?",
+    "label": "CH_0347",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain England?",
+    "label": "CH_0348",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Again?",
+    "label": "CH_0349",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Otherwise?",
+    "label": "CH_0350",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Zorusta?",
+    "label": "CH_0351",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with British?",
+    "label": "CH_0352",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Otherwise?",
+    "label": "CH_0353",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Understand?",
+    "label": "CH_0354",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Because?",
+    "label": "CH_0355",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Frankus?",
+    "label": "CH_0356",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Environmental?",
+    "label": "CH_0357",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Immigration?",
+    "label": "CH_0358",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with French?",
+    "label": "CH_0359",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Greater?",
+    "label": "CH_0360",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0361",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Shanghai?",
+    "label": "CH_0362",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Religion?",
+    "label": "CH_0363",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Listen?",
+    "label": "CH_0364",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Because?",
+    "label": "CH_0365",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Everyone?",
+    "label": "CH_0366",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0367",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about America?",
+    "label": "CH_0368",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Otherwise?",
+    "label": "CH_0369",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Australia?",
+    "label": "CH_0370",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Australia?",
+    "label": "CH_0371",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Trudeau?",
+    "label": "CH_0372",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Euphania?",
+    "label": "CH_0373",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about America?",
+    "label": "CH_0374",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Canadians?",
+    "label": "CH_0375",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Youthation?",
+    "label": "CH_0376",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Immigrants?",
+    "label": "CH_0377",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Americans?",
+    "label": "CH_0378",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Immigrants?",
+    "label": "CH_0379",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Chinese?",
+    "label": "CH_0380",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Phoenicians?",
+    "label": "CH_0381",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Israelis?",
+    "label": "CH_0382",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Spanish?",
+    "label": "CH_0383",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0384",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Island?",
+    "label": "CH_0385",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Leonitis?",
+    "label": "CH_0386",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Macedonia?",
+    "label": "CH_0387",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Transgression?",
+    "label": "CH_0388",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Sorry?",
+    "label": "CH_0389",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Sorry?",
+    "label": "CH_0390",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Frederick?",
+    "label": "CH_0391",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Buddhists?",
+    "label": "CH_0392",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Because?",
+    "label": "CH_0393",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain American?",
+    "label": "CH_0394",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Buddhism?",
+    "label": "CH_0395",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Exactly?",
+    "label": "CH_0396",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Polytheism?",
+    "label": "CH_0397",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Females?",
+    "label": "CH_0398",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Zorashianism?",
+    "label": "CH_0399",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Fortune?",
+    "label": "CH_0400",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Especially?",
+    "label": "CH_0401",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Christianity?",
+    "label": "CH_0402",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Commandments?",
+    "label": "CH_0403",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Christianity?",
+    "label": "CH_0404",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Avengers?",
+    "label": "CH_0405",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Therefore?",
+    "label": "CH_0406",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Therefore?",
+    "label": "CH_0407",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Paradise?",
+    "label": "CH_0408",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Pierce?",
+    "label": "CH_0409",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Shall?",
+    "label": "CH_0410",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Paradise?",
+    "label": "CH_0411",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Achilles?",
+    "label": "CH_0412",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Nephilim?",
+    "label": "CH_0413",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Harapen?",
+    "label": "CH_0414",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Mesopotitania?",
+    "label": "CH_0415",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Babylonian?",
+    "label": "CH_0416",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Egyptian?",
+    "label": "CH_0417",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Psychedelics?",
+    "label": "CH_0418",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Suddenly?",
+    "label": "CH_0419",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Egyptian?",
+    "label": "CH_0420",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Because?",
+    "label": "CH_0421",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Sigloman?",
+    "label": "CH_0422",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about American?",
+    "label": "CH_0423",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain American?",
+    "label": "CH_0424",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Facebook?",
+    "label": "CH_0425",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Protestants?",
+    "label": "CH_0426",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain University?",
+    "label": "CH_0427",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Discretion?",
+    "label": "CH_0428",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Definitely?",
+    "label": "CH_0429",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Because?",
+    "label": "CH_0430",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Ambition?",
+    "label": "CH_0431",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Everyone?",
+    "label": "CH_0432",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Everyone?",
+    "label": "CH_0433",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Washington?",
+    "label": "CH_0434",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Princeton?",
+    "label": "CH_0435",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Princeton?",
+    "label": "CH_0436",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Princeton?",
+    "label": "CH_0437",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain American?",
+    "label": "CH_0438",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Political?",
+    "label": "CH_0439",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Harvard?",
+    "label": "CH_0440",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Certainly?",
+    "label": "CH_0441",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain University?",
+    "label": "CH_0442",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Kristakus?",
+    "label": "CH_0443",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with America?",
+    "label": "CH_0444",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain African?",
+    "label": "CH_0445",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Understandably?",
+    "label": "CH_0446",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about California?",
+    "label": "CH_0447",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Eventually?",
+    "label": "CH_0448",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Pentagon?",
+    "label": "CH_0449",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain American?",
+    "label": "CH_0450",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about America?",
+    "label": "CH_0451",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Holocaust?",
+    "label": "CH_0452",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Germany?",
+    "label": "CH_0453",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Tanzania?",
+    "label": "CH_0454",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Leaders?",
+    "label": "CH_0455",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Questions?",
+    "label": "CH_0456",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with League?",
+    "label": "CH_0457",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Charles?",
+    "label": "CH_0458",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0459",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Therefore?",
+    "label": "CH_0460",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about English?",
+    "label": "CH_0461",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0462",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain YouTube?",
+    "label": "CH_0463",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Because?",
+    "label": "CH_0464",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0465",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Schroinger?",
+    "label": "CH_0466",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Without?",
+    "label": "CH_0467",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Because?",
+    "label": "CH_0468",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Egyptians?",
+    "label": "CH_0469",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Because?",
+    "label": "CH_0470",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Secondly?",
+    "label": "CH_0471",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Friday?",
+    "label": "CH_0472",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Illuminati?",
+    "label": "CH_0473",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Illuminati?",
+    "label": "CH_0474",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Jerusalem?",
+    "label": "CH_0475",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Christians?",
+    "label": "CH_0476",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Freemasonry?",
+    "label": "CH_0477",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about America?",
+    "label": "CH_0478",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Europeans?",
+    "label": "CH_0479",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Jerusalem?",
+    "label": "CH_0480",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Jerusalem?",
+    "label": "CH_0481",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Freemasonry?",
+    "label": "CH_0482",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Charles?",
+    "label": "CH_0483",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Benjamini?",
+    "label": "CH_0484",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Rothschild?",
+    "label": "CH_0485",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Bisantines?",
+    "label": "CH_0486",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Christianity?",
+    "label": "CH_0487",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Israelites?",
+    "label": "CH_0488",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Afghanistan?",
+    "label": "CH_0489",
+    "type": "fuzzy"
+  },
+  {
+    "query": "Can you explain Zuckerberg?",
+    "label": "CH_0490",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about American?",
+    "label": "CH_0491",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Zuckerberg?",
+    "label": "CH_0492",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What did he say about Intelligence?",
+    "label": "CH_0493",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Messiah?",
+    "label": "CH_0494",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Frankus?",
+    "label": "CH_0495",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Professor?",
+    "label": "CH_0496",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Venezuela?",
+    "label": "CH_0497",
+    "type": "fuzzy"
+  },
+  {
+    "query": "What was the deal with Books?",
+    "label": "CH_0498",
+    "type": "fuzzy"
+  }
+]

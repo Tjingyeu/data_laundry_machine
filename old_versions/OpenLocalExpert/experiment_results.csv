@@ -1,0 +1,5 @@
+exp_id,exp_name,train_samples,model,steps,lora_rank,learning_rate,train_loss,val_loss,tokens,avg_baseline,avg_lora,score_diff,improvement_rate,routing_diversity,status
+EXP-1,keyword_lora,2000,Qwen2.5-0.5B,2000,8,1e-4,2.544,11.262,286611,0.6089,0.6066,-0.0024,35.7%,N/A,partial_success
+EXP-2,routing_2211,2211,Qwen2.5-0.5B,2000,8,1e-4,0.361,1.835,70396,0.5780,0.2219,-0.3561,0.0%,2/670,failed
+EXP-3,distilled_1470,1470,Qwen2.5-0.5B,2000,8,1e-4,0.348,1.544,78186,0.5780,0.3753,-0.2027,0.0%,1/670,failed
+EXP-4,expert_4020,4020,Qwen2.5-0.5B,80,8,2e-4,1.254,1.020,2979,0.5780,0.2823,-0.2957,0.0%,2/670,failed

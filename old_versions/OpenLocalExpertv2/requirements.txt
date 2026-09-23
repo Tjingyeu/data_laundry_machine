@@ -1,0 +1,9 @@
+# 实验依赖包
+lancedb>=0.12
+sentence-transformers>=3.0
+tiktoken>=0.7
+requests>=2.31
+transformers>=4.44
+torch>=2.4
+accelerate>=0.34
+peft>=0.13

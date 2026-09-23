@@ -1,0 +1,937 @@
+[
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about 00:01 so this week Vladimir Putin um in a speech said to his Russian people that um all Russia must?",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 0"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about in all of Europe uh the rich people steal and then they run off to Europe or the United States or D?",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 1"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about gave up um in the late 80s there was an American historian he actually he actual",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 2"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about okay so a fundamental problem of politics how do y?",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 3"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about 15:49 major problem of capitalism is it's all consuming so so as Jack says all c",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 4"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: feel about this are you happy about this H how how do you feel depressing and and lonely and yeah e",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 5"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: 're productive and therefore you have to treat your workers properly so in America and in Europe wor",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 6"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about concept called the consumer okay so in the 50s 60s?",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 7"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about the biggest thing and $1 million is a lot of money?",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 8"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about do you understand if you're a slave you be beheld ?",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 9"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: you don't want to work together what happens now what happens now yeah that's right if you don't do",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 10"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about is that every month Russia is producing 150,000 am?",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 11"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about country and be capitalistic  46:11 so capitalism many people will say leads to Fascism so Nazis wer?",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 12"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about but uh Jack's other point is that Russia is not a very wealthy country right eventually you're goin?",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 13"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: Britain and then they will start to transition into a War cu",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 14"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about so but in this question uh this reviews a contradiction in putinism okay what is the ultimate probl?",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 15"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: to war okay but again history is determined by those those w",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 16"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: is not a warrior culture  01:03:50 and the reason why is tha",
+    "output": "Geo-Strategy #9_  Putin's War for the Soul of Russia.txt -> 17"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about 00:01 okay well this is it the end of the journey the final class so we've done ",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 18"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about fiction he's really famous and he wrote A series called Foundation um and I think there's a TV seri?",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 19"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about okay the problem though is they all want power right now wealth and fame are all infinite resources?",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 20"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: is machine learning okay so so what is this  11:10 okay so um in computer programming you're taught",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 21"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: I will show you is how this model is created so what happens is this all right what I do is I teach",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 22"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about is that there are certain problems that I can solve using Ai and there are certain problems I canno?",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 23"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about application of of AI it's it's very Li lied you also look at self-driving cars n",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 24"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about that's one model for what causes  25:57 War I also said that um Trump will becom",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 25"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about people of Europe are saying is there's no European identity guys there's a German identity there's?",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 26"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about donia right okay but if a society represses the human heart then ultimately the society will have to?",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 27"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about their power okay they need they need to  38:34 create fictions for example maybe",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 28"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about that is creative and when you're constantly learning learning every day and grow",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 29"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about sense okay that's a project but now but now but then there's the technology beca",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 30"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about because by definition they're beyond history they can step outside of history an",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 31"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about basically the Emperor of Russia and all Russia hee?",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 32"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: guys you you you all hate each other you will all want to kill each  55:50 other okay you understan",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 33"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about for creation can't be satisfied does that make sense so a society that nurtures are willing to love?",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 34"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: said this it's going to take at least 50 to 100 years to bui",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 35"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: the in the first semester we read the great books and um I w",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 36"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about better place if I work hard because I've seen the growth in all of you okay so I",
+    "output": "Geo-Strategy END_  Psychohistory (The Science of Imagining the Future).txt -> 37"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: 00:01 okay let's start class so um let us summarize and revi",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 38"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about to stay in Jer crusher's bedroom and Jer kusher had to sleep in the in the uh ba",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 39"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: a war like this okay which is traditional Warfare you must h",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 40"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: okay and that's why when the US military is given the order ",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 41"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: to the American public why the United States is fighting thi",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 42"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about have been in contact with Iranian opposition groups they want to overthrow the r",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 43"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about problem with this plan what is it why would the Iranians want this okay let's go",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 44"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: the country all the resistance to the regime will rise up an",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 45"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about their only explanation is okay well we're going to pretend that once we invade the people of Iran w?",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 46"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about then this could be true okay the second uh method ?",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 47"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about history has Athens sent a large Expedition Force against another Power okay does",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 48"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about Vietnam okay most Americans didn't know what it wa?",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 49"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about therefore more people people willing to fight the Americans okay so from a very ",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 50"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about avoid in circle men protect supply lines how much you fight this war there's onl",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 51"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: means that he doesn't think strategy he just  50:02 thinks w",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 52"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about the Athenians uh Expedition against Sicily it is m?",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 53"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: what do you want to happen do you want the United States to ",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 54"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about what will happen if this situation will arise Trump will respond with nuclear we",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 55"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: before we end are there any questions about any of this does",
+    "output": "Geo-Strategy #8_  The Iran Trap.txt -> 56"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: 00:01 okay um let's start class so let's review where we are um we are discussing or exploring why t",
+    "output": "Geo-Strategy #4_   Saudi Arabia's Trump Card Against Iran.txt -> 57"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about a general consensus agreement in the Middle East that religion and politics woul",
+    "output": "Geo-Strategy #4_   Saudi Arabia's Trump Card Against Iran.txt -> 58"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: that's lasted to this day okay now the majority of people in",
+    "output": "Geo-Strategy #4_   Saudi Arabia's Trump Card Against Iran.txt -> 59"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: Saudi Arabia has always had this problem with the wahhabis  ",
+    "output": "Geo-Strategy #4_   Saudi Arabia's Trump Card Against Iran.txt -> 60"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: point of of doing this is to distract Israel okay now Saudi Arabia is trying to exert influence ove",
+    "output": "Geo-Strategy #4_   Saudi Arabia's Trump Card Against Iran.txt -> 61"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about man it was 160 150,000 Saudi Arabian troops they h?",
+    "output": "Geo-Strategy #4_   Saudi Arabia's Trump Card Against Iran.txt -> 62"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about in the long  23:06 term that's the only way we're ?",
+    "output": "Geo-Strategy #4_   Saudi Arabia's Trump Card Against Iran.txt -> 63"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: warming right climate change you also have a problem with th",
+    "output": "Geo-Strategy #4_   Saudi Arabia's Trump Card Against Iran.txt -> 64"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about is Kasam salamani who was responsible for Iran's uh policies in the Iraq War the",
+    "output": "Geo-Strategy #4_   Saudi Arabia's Trump Card Against Iran.txt -> 65"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about sure but it seems like Trump is doing exactly what the Saudis want which is to inflame tensions wit?",
+    "output": "Geo-Strategy #4_   Saudi Arabia's Trump Card Against Iran.txt -> 66"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about 00:01 okay so let's begin begin class and today we are discussing whether or not",
+    "output": "Geo-Strategy #5_  Why Trump Will Win (And Pick Nikki Haley as VP).txt -> 67"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: Trump okay so these are the two major reasons why black people voted for Biden in 2020 but this yea",
+    "output": "Geo-Strategy #5_  Why Trump Will Win (And Pick Nikki Haley as VP).txt -> 68"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about less enthusiastic because of what they perceived to be poor Global Leadership okay Biden under Bide?",
+    "output": "Geo-Strategy #5_  Why Trump Will Win (And Pick Nikki Haley as VP).txt -> 69"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about and who's a un fire and throughout the Trump presi?",
+    "output": "Geo-Strategy #5_  Why Trump Will Win (And Pick Nikki Haley as VP).txt -> 70"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about they have kids okay and the third reason why they like coming out here is is because of the Redempt?",
+    "output": "Geo-Strategy #5_  Why Trump Will Win (And Pick Nikki Haley as VP).txt -> 71"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: leadership that is the decisive and bold but um is also um t",
+    "output": "Geo-Strategy #5_  Why Trump Will Win (And Pick Nikki Haley as VP).txt -> 72"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about president and Trump came out and said I am not considering Nicki Hy okay but let me ask you this qu?",
+    "output": "Geo-Strategy #5_  Why Trump Will Win (And Pick Nikki Haley as VP).txt -> 73"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: they go against any companies or individuals who support Ira",
+    "output": "Geo-Strategy #5_  Why Trump Will Win (And Pick Nikki Haley as VP).txt -> 74"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about okay so she comes across as an extremely popular e?",
+    "output": "Geo-Strategy #5_  Why Trump Will Win (And Pick Nikki Haley as VP).txt -> 75"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: because it's one step away from the presidency do you unders",
+    "output": "Geo-Strategy #5_  Why Trump Will Win (And Pick Nikki Haley as VP).txt -> 76"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about voters they wanted Biden to win because they  36:03 thought Trump was divisive o",
+    "output": "Geo-Strategy #5_  Why Trump Will Win (And Pick Nikki Haley as VP).txt -> 77"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: way we know if this model works or not is by making predicti",
+    "output": "Geo-Strategy #5_  Why Trump Will Win (And Pick Nikki Haley as VP).txt -> 78"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about 00:02 okay um let's start class we're continuing the United States Iran War um a",
+    "output": "Geo-Strategy#2_  Christian Zionism and the Middle East Conflict.txt -> 79"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: right then you go to heaven okay so at first Christianity was an extremely revolutionary religion a",
+    "output": "Geo-Strategy#2_  Christian Zionism and the Middle East Conflict.txt -> 80"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: years of peace and prosperity okay do you understand before he comes back okay when he comes back h",
+    "output": "Geo-Strategy#2_  Christian Zionism and the Middle East Conflict.txt -> 81"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about these descenders believe that the Bible is a supreme authority the Bible asks us to do certain thin?",
+    "output": "Geo-Strategy#2_  Christian Zionism and the Middle East Conflict.txt -> 82"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about God okay he has a plan he knows what he's doing ju?",
+    "output": "Geo-Strategy#2_  Christian Zionism and the Middle East Conflict.txt -> 83"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about to bring Jesus back okay and then you have the aist who are like now the thousand years it's just a?",
+    "output": "Geo-Strategy#2_  Christian Zionism and the Middle East Conflict.txt -> 84"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about their objectives are people  22:12 who tend to be ?",
+    "output": "Geo-Strategy#2_  Christian Zionism and the Middle East Conflict.txt -> 85"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: conflict with the Middle East okay so in other words the Middle East okay yeah all of them all of t",
+    "output": "Geo-Strategy#2_  Christian Zionism and the Middle East Conflict.txt -> 86"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about message is this okay here's what you need to know first is that Christ there are many Christians wh?",
+    "output": "Geo-Strategy#2_  Christian Zionism and the Middle East Conflict.txt -> 87"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about 35:05 to his chosen people okay and this was a promise that dates back at least 3,000 years to the?",
+    "output": "Geo-Strategy#2_  Christian Zionism and the Middle East Conflict.txt -> 88"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about kind of attractive to you you understand right wel?",
+    "output": "Geo-Strategy#2_  Christian Zionism and the Middle East Conflict.txt -> 89"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about you're not religious so we don't we understand how religious people think okay b",
+    "output": "Geo-Strategy#2_  Christian Zionism and the Middle East Conflict.txt -> 90"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about 00:01 so in this class this semester I'm making three big predictions right first is that Trump will?",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 91"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about much as manufacturing Financial Services bringing 40% of all profits and financial services employs?",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 92"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: America has become much more unstable so in 2001 there was t",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 93"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about the rules of the game so that it would always win and then all money flow to America which created?",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 94"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about allow everyone to pursue uh the creation of wealth then America will become powerful okay that's th?",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 95"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about guys know oil okay do you understand this what we ?",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 96"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: what happens is capital from the United States moves to Chin",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 97"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about market as a as a percentage of the entire Global stock market was about 25% okay",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 98"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about half of it um the government owes to its people so?",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 99"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about show that you America are in fact a paper tiger ok?",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 100"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: the opportunity to become rich but if you work in a factory ",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 101"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about that area most of the World's Trade has to pass th?",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 102"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about feel that your only option is to invest in America but but when you do this you'",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 103"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about because now America controlled half the world and ?",
+    "output": "Geo-Strategy #3_  How Empire is Destroying America.txt -> 104"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about 00:02 okay so let's start class and start to think?",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 105"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about reasons why most people believe this is an accident and this is again probably u",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 106"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about two helicopters but we can guess that they were pr?",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 107"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about from having him as Ayatollah and the answer is actually very simple um there's a",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 108"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about about 10 to 50% of the entire Iranian economy and because you have such a monopoly of power it mean?",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 109"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about the ayatolla kamani but if there's a new I comes to power he needs to establish his own power base?",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 110"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: the students invaded the embassy the first thing that diplom",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 111"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about lots of soldiers and everyone thought that the war would end very quickly but then what the Revolut?",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 112"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about and there are actually a lot of people in Iran who are like why are we doing this again what what i?",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 113"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about would be challenged okay and so by getting rid of ?",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 114"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about repr G Corp okay they're basically his private Army and the reason why that the ",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 115"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about :04 this is a direct Pro provocation okay that's the first thing second thing is",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 116"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about uing all which means that they have ear suy which means have satellites that can see everything that?",
+    "output": "Geo-Strategy #7_  Who Killed Iranian President Ebrahim Raisi_.txt -> 117"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about 00:01 let's start class so um last week we discussed the possibility that um Tru",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 118"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: you must focus on when you fight a war so when the bush government asked the Pentagon for a plan th",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 119"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about war in a new way that's never been fought before but which will guarantee that w",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 120"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about latch onto a tank and blow the tank up so this one?",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 121"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: 2003 War okay second thing is that Iraq is a desert that mak",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 122"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: 's always been a problem throughout history so you must main",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 123"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about that you will have to wear a bullet bulletproof ve?",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 124"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about quickly okay so the examples would be uh Iraq Iran North Korea okay the AES of of evil so America s?",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 125"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: is they don't like to lose Wars okay when they fight Wars th",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 126"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: Vietnam than in World War II combin okay more more bombs wer",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 127"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: so the Pentagon felt betrayed by democracy the politicians were more concerned about winning electi",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 128"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about questions yeah yeah yeah okay so Jack makes a great  39:13 point which is okay yeah but most people?",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 129"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about argument can be made that the real intention was not to bring democracy to Iraq ",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 130"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about world I know the Soviet Union has collapsed I know that militarily no one can challenge us but with?",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 131"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: to party with movie stars do that you can do whatever you wa",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 132"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: anyone can challenge you you don't think you can lose a war ",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 133"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about watch but the the the the golf war in 2003 it was just a voo game it was just like things getting b?",
+    "output": "Geo-Strategy #6_  America's Imperial Hubris.txt -> 134"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about 00:00 okay so um as you know from your research on April 1st the Israelis struck the Iranian Embassy?",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 135"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: credible okay and the reason why is that the Iranians have t",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 136"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about and so as as ascal Warfare means that as long as you can Define the terms of Eng",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 137"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: use AAL Warfare and it it it and even though Israel United S",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 138"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about and flexible tactics against Americans whereas the Americans insisted on their main military Doctri?",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 139"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about been trying to renegotiate the deal in 1953 the democratically elected governmen",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 140"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about away from Ukraine into Iran okay um what would Rus?",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 141"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: that basically means removing the Palestinians from Gaza they can go to Egypt they can go to Jordan",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 142"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about to cause any casualties okay does that make sense ?",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 143"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about is this okay the answer is um in war there something called Rules of Engagement ",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 144"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: anger at Israel that no one really cares about Chinese stude",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 145"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: world if America left Europe who would become the dominant power Germany right and if America left",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 146"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about know that America doesn't really need a reason to fight a war do you understand ",
+    "output": "Geo-Strategy #1_  Iran's Strategy Matrix.txt -> 147"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: 00:01 today uh we will be discussing the second um American Civil War so I want to make the you the",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 148"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about actually a lot of Americans who wanted to remain in the union and so um these loyalists a lot of th?",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 149"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about evil of slavery and that's not true that's not wha?",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 150"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about Express their political views okay and the north was fighting to maintain the un",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 151"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: which is that there is a God but God gave us the power reaso",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 152"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about onto themselves then you have federal agencies lik?",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 153"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about 30 an army unto themselves okay it would take exactly a thousand of these guys e",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 154"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: evil okay that's what people on the left are taught people o",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 155"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about of power so that to in today's world there's actually in in today's America there's no more trusted?",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 156"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about and if these in institutions are corrupt there's very little the president can do about it and that?",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 157"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about 37:19 you have uh what we call insurgencies so bas?",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 158"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about okay and I I I don't actually know what happens in?",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 159"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: the right manifest themselves in Donald Trump okay he's whit",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 160"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: thinking Donald Trump is an outsider when he's actually Insi",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 161"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: you can't serve as vice president for as long as you want yo",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 162"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about doing anything they can to ensure that this war co?",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 163"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about so SEL ask a great question okay and this is actually  58:06 the most fundamental question it is re?",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 164"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about for Trump because she's a skap in that one right T?",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 165"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about okay no matter what he does there's going to be pe?",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 166"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about me to clarify okay all right so um next class we'l?",
+    "output": "Geo-Strategy #11_  The Second American Civil War.txt -> 167"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: 00:01 okay so um today we will discuss Putin's plan to destroy the American Empire so last class we",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 168"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about create its own Financial system to counter uh the US Financial system but now th",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 169"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about things would happen Okay the first thing that would happen is that Ukraine would destroy the Russia?",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 170"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about how the German economy works it's a manufacturing economy it Tak cheap Russian g",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 171"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: is um badly um Extended okay so and you can make the argument that either Putin knew about the Hama",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 172"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: Iran will be protected by the Russian nuclear umbrella which means that America will not be allowed",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 173"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about but again and Putin doesn't actually need China to?",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 174"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about encouraging everyone to buy gold don't buy any more US Dollars guys buy gold rig",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 175"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about Dollars okay so basically what's happening is that the Communist party is storin",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 176"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about invaded China and the United States doesn't want that okay so it's very likely that the United Stat?",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 177"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about 's a global communist movement in 1930s that's ver?",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 178"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about this history okay it's it's because of something called the molotov rippen trop uh P so this was an?",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 179"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about okay so the top generals of the Soviet Army the Red Army were all dead or in prison because Stalin?",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 180"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Which chunk contains information about what happens now what happens they just destroy ea?",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 181"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Where is the part about national Unity right now all the Soviets were United in the fight against Nazi Germany before Comm?",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 182"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: of all is multiple personalities meaning that Putin and S are such brilliant men that they embody m",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 183"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Search for: any questions okay so s asked the most important question ok",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 184"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Find the chunk that discusses this: today okay so this is what dominates in Academia so when you go off to University they expect you t",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 185"
+  },
+  {
+    "instruction": "Route to the correct knowledge chunk.",
+    "input": "Locate the content about if I did that um first of all  01:03:35 I couldn't execute my plan but second it",
+    "output": "Geo-Strategy #10_  Putin's Strategic Imagination.txt -> 186"
+  }
+]

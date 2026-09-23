@@ -1,0 +1,184 @@
+{
+  "experiment_date": "2026-04-16",
+  "experiment_name": "LoRA Router vs Vector Search - Philosophical Query Comparison",
+  "queries": [
+    {
+      "id": 1,
+      "query": "If writing began as a tool for control, how can we tell when it becomes a tool for truth instead?",
+      "lora_prediction": {
+        "chunk_id": "CH_0388",
+        "score": 0.087,
+        "chunk_text": "But when all was lost, the sacred band, they stood in the middle of the fie...",
+        "top_3": [["CH_0388", 0.087], ["CH_0102", 0.045], ["CH_0003", 0.027]]
+      },
+      "vector_prediction": {
+        "chunk_id": "CH_0462",
+        "score": 0.668,
+        "chunk_text": "What I'm trying to tell you is the idea or the final product comes first. T...",
+        "top_3": [["CH_0462", 0.668], ["CH_0349", 0.641], ["CH_0473", 0.641]]
+      },
+      "analysis": "Vector finds more relevant chunk about ideas/products. LoRA score too low."
+    },
+    {
+      "id": 2,
+      "query": "To what extent are modern governments still using narratives the way ancient kings used mythologies?",
+      "lora_prediction": {
+        "chunk_id": "CH_0044",
+        "score": 0.288,
+        "chunk_text": "Okay. So every plant, every rock has a life force and they appreciate the d...",
+        "top_3": [["CH_0044", 0.288], ["CH_0405", 0.076], ["CH_0015", 0.041]]
+      },
+      "vector_prediction": {
+        "chunk_id": "CH_0060",
+        "score": 0.688,
+        "chunk_text": "All right. So again um this follows the dynastic cycle. Okay. So in the beg...",
+        "top_3": [["CH_0060", 0.688], ["CH_0057", 0.67], ["CH_0062", 0.665]]
+      },
+      "analysis": "Vector finds relevant chunk about dynastic cycles/narratives. LoRA misses."
+    },
+    {
+      "id": 3,
+      "query": "Is hierarchy an artificial construct imposed by elites, or an inevitable outcome of complex societies?",
+      "lora_prediction": {
+        "chunk_id": "CH_0469",
+        "score": 0.115,
+        "chunk_text": "We are here, our divine mission is to expand the consciousness of the unive...",
+        "top_3": [["CH_0469", 0.115], ["CH_0221", 0.083], ["CH_0014", 0.079]]
+      },
+      "vector_prediction": {
+        "chunk_id": "CH_0366",
+        "score": 0.767,
+        "chunk_text": "In fact the elite is first and foremost concerned with passing on their pri...",
+        "top_3": [["CH_0366", 0.767], ["CH_0065", 0.728], ["CH_0049", 0.721]]
+      },
+      "analysis": "Vector directly finds 'elite' and hierarchy discussion. LoRA too low."
+    },
+    {
+      "id": 4,
+      "query": "Could a large-scale civilization exist without relying on some form of belief manipulation?",
+      "lora_prediction": {
+        "chunk_id": "CH_0304",
+        "score": 0.205,
+        "chunk_text": "at the beginning of time, has already decided who will go to heaven and who...",
+        "top_3": [["CH_0304", 0.205], ["CH_0065", 0.061], ["CH_0343", 0.032]]
+      },
+      "vector_prediction": {
+        "chunk_id": "CH_0049",
+        "score": 0.733,
+        "chunk_text": "And as this civilization grows, the people in charge create something calle...",
+        "top_3": [["CH_0049", 0.733], ["CH_0048", 0.714], ["CH_0063", 0.704]]
+      },
+      "analysis": "Vector finds direct discussion of belief systems in civilization. LoRA weak."
+    },
+    {
+      "id": 5,
+      "query": "Are we genuinely more free than people in ancient civilizations, or just influenced in more subtle ways?",
+      "lora_prediction": {
+        "chunk_id": "CH_0476",
+        "score": 0.228,
+        "chunk_text": "Okay. [snorts] So for the Christians they believe that yes all this will ha...",
+        "top_3": [["CH_0476", 0.228], ["CH_0049", 0.079], ["CH_0311", 0.062]]
+      },
+      "vector_prediction": {
+        "chunk_id": "CH_0063",
+        "score": 0.724,
+        "chunk_text": "Okay. So today we are going to discuss civilization versus the steps. Okay....",
+        "top_3": [["CH_0063", 0.724], ["CH_0400", 0.703], ["CH_0174", 0.693]]
+      },
+      "analysis": "LoRA finds Christian belief discussion (some relevance). Vector finds civilization comparison."
+    },
+    {
+      "id": 6,
+      "query": "If nomadic societies were more innovative, why did they not sustain long-term dominant civilizations?",
+      "lora_prediction": {
+        "chunk_id": "CH_0050",
+        "score": 0.127,
+        "chunk_text": "Okay, that's the second major characteristic. This allows for you to build ...",
+        "top_3": [["CH_0050", 0.127], ["CH_0405", 0.103], ["CH_0044", 0.088]]
+      },
+      "vector_prediction": {
+        "chunk_id": "CH_0064",
+        "score": 0.732,
+        "chunk_text": "Okay. So the first city in world civilization is Euro Eric. Okay. And over ...",
+        "top_3": [["CH_0064", 0.732], ["CH_0063", 0.71], ["CH_0048", 0.707]]
+      },
+      "analysis": "Both find civilization-related content. Vector more confident."
+    },
+    {
+      "id": 7,
+      "query": "Does stability suppress creativity compared to instability?",
+      "lora_prediction": {
+        "chunk_id": "CH_0376",
+        "score": 0.143,
+        "chunk_text": "And there are different theories. Okay? And uh we'll go over some of the ma...",
+        "top_3": [["CH_0376", 0.143], ["CH_0164", 0.097], ["CH_0304", 0.071]]
+      },
+      "vector_prediction": {
+        "chunk_id": "CH_0462",
+        "score": 0.695,
+        "chunk_text": "What I'm trying to tell you is the idea or the final product comes first. T...",
+        "top_3": [["CH_0462", 0.695], ["CH_0025", 0.685], ["CH_0416", 0.663]]
+      },
+      "analysis": "Vector finds creative process discussion. LoRA low confidence."
+    },
+    {
+      "id": 8,
+      "query": "Are modern startup cultures closer to nomadic systems or bureaucratic empires?",
+      "lora_prediction": {
+        "chunk_id": "CH_0431",
+        "score": 0.073,
+        "chunk_text": "so I signed up. Okay. Um I was also editor of the school newspaper. Okay. A...",
+        "top_3": [["CH_0431", 0.073], ["CH_0405", 0.05], ["CH_0054", 0.04]]
+      },
+      "vector_prediction": {
+        "chunk_id": "CH_0064",
+        "score": 0.694,
+        "chunk_text": "Okay. So the first city in world civilization is Euro Eric. Okay. And over ...",
+        "top_3": [["CH_0064", 0.694], ["CH_0065", 0.669], ["CH_0219", 0.656]]
+      },
+      "analysis": "LoRA finds personal anecdote (low relevance). Vector finds civilization discussion."
+    },
+    {
+      "id": 9,
+      "query": "Can a society maintain both high innovation and long-term stability?",
+      "lora_prediction": {
+        "chunk_id": "NOT_RELEVANT",
+        "score": 0.682,
+        "chunk_text": "N/A",
+        "top_3": [["NOT_RELEVANT", 0.682], ["CH_0304", 0.026], ["CH_0374", 0.014]]
+      },
+      "vector_prediction": {
+        "chunk_id": "CH_0366",
+        "score": 0.67,
+        "chunk_text": "In fact the elite is first and foremost concerned with passing on their pri...",
+        "top_3": [["CH_0366", 0.67], ["CH_0064", 0.646], ["CH_0295", 0.625]]
+      },
+      "analysis": "LoRA rejects as NOT_RELEVANT. Vector returns result despite low semantic relevance."
+    },
+    {
+      "id": 10,
+      "query": "Is the shift from matriarchal to patriarchal systems driven by warfare or deeper factors?",
+      "lora_prediction": {
+        "chunk_id": "CH_0067",
+        "score": 0.427,
+        "chunk_text": "women are usually in command. There's no sense of private property. Everyon...",
+        "top_3": [["CH_0067", 0.427], ["CH_0413", 0.365], ["CH_0154", 0.016]]
+      },
+      "vector_prediction": {
+        "chunk_id": "CH_0035",
+        "score": 0.698,
+        "chunk_text": "Because if you're a woman, you don't want to have too many children. You wa...",
+        "top_3": [["CH_0035", 0.698], ["CH_0067", 0.691], ["CH_0249", 0.686]]
+      },
+      "analysis": "Both find relevant matriarchal/patriarchal content. CH_0067 directly discusses property/women."
+    }
+  ],
+  "summary": {
+    "loRA_wins_meaningful": 2,
+    "vector_wins_meaningful": 6,
+    "both_adequate": 2,
+    "lora_advantage_cases": [5, 10],
+    "vector_advantage_cases": [1, 2, 3, 4, 6, 7, 8],
+    "key_insight": "LoRA excels at semantic understanding but lacks confidence on abstract queries. Vector is keyword-driven but consistently returns high-scoring results even when semantically weak."
+  }
+}

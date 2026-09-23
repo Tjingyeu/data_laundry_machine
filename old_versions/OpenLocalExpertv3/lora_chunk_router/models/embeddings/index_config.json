@@ -1,0 +1,6 @@
+{
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "embedding_dim": 384,
+  "index_type": "IndexFlatIP",
+  "num_chunks": 497
+}
